@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 8960f5d7056426f4ea07e6b175dcde3f
+timeCreated: 1460748211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idel_0
+    21300002: idel_1
+    21300004: idel_2
+    21300006: idel_3
+    21300008: idel_4
+    21300010: idel_5
+    21300012: idel_6
+    21300014: idel_7
+    21300016: idel_8
+    21300018: idel_9
+    21300020: idel_10
+    21300022: idel_11
+    21300024: idel_12
+    21300026: idel_13
+    21300028: idel_14
+    21300030: idel_15
+    21300032: idel_16
+    21300034: idel_17
+    21300036: idel_18
+    21300038: idel_19
+    21300040: idel_20
+    21300042: idel_21
+    21300044: idel_22
+    21300046: idel_23
+    21300048: idel_24
+    21300050: idel_25
+    21300052: idel_26
+    21300054: idel_27
+    21300056: idel_28
+    21300058: idel_29
+    21300060: idel_30
+    21300062: idel_31
+    21300064: idel_32
+    21300066: idel_33
+    21300068: idel_34
+    21300070: Blue_idel_0
+    21300072: Blue_idel_1
+    21300074: Blue_idel_2
+    21300076: Blue_idel_3
+    21300078: Blue_idel_4
+    21300080: Blue_idel_5
+    21300082: Blue_idel_6
+    21300084: Blue_idel_7
+    21300086: Blue_idel_8
+    21300088: Blue_idel_9
+    21300090: Blue_idel_10
+    21300092: Blue_idel_11
+    21300094: Blue_idel_12
+    21300096: Blue_idel_13
+    21300098: Blue_idel_14
+    21300100: Blue_idel_15
+    21300102: Blue_idel_16
+    21300104: Blue_idel_17
+    21300106: Blue_idel_18
+    21300108: Blue_idel_19
+    21300110: Blue_idel_20
+    21300112: Blue_idel_21
+    21300114: Blue_idel_22
+    21300116: Blue_idel_23
+    21300118: Blue_idel_24
+    21300120: Blue_idel_25
+    21300122: Blue_idel_26
+    21300124: Blue_idel_27
+    21300126: Blue_idel_28
+    21300128: Blue_idel_29
+    21300130: Blue_idel_30
+    21300132: Blue_idel_31
+    21300134: Blue_idel_32
+    21300136: Blue_idel_33
+    21300138: Blue_idel_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 170
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blue_idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 55}
+        - {x: -86, y: 54}
+        - {x: -91, y: 41}
+        - {x: -91, y: -34}
+        - {x: -41, y: -50}
+        - {x: 35, y: -50}
+        - {x: 81, y: -15}
+        - {x: 81, y: 11}
+        - {x: 54, y: 55}
+    - name: Blue_idel_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 53}
+        - {x: -91, y: 19}
+        - {x: -91, y: -18}
+        - {x: -50, y: -51}
+        - {x: 17, y: -51}
+        - {x: 81, y: -6}
+        - {x: 81, y: 16}
+        - {x: 49, y: 53}
+    - name: Blue_idel_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 52}
+        - {x: -91, y: 20}
+        - {x: -91, y: -22}
+        - {x: -54, y: -51}
+        - {x: 3, y: -51}
+        - {x: 81, y: -8}
+        - {x: 81, y: 12}
+        - {x: 44, y: 52}
+    - name: Blue_idel_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 51}
+        - {x: -91, y: 25}
+        - {x: -91, y: -20}
+        - {x: -39, y: -50}
+        - {x: -34, y: -51}
+        - {x: 7, y: -51}
+        - {x: 81, y: -14}
+        - {x: 81, y: 5}
+        - {x: 50, y: 51}
+    - name: Blue_idel_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 51}
+        - {x: -92, y: 27}
+        - {x: -92, y: -31}
+        - {x: -38, y: -51}
+        - {x: 17, y: -51}
+        - {x: 82, y: -7}
+        - {x: 82, y: 9}
+        - {x: 44, y: 51}
+    - name: Blue_idel_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 610
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 50}
+        - {x: -89, y: 27}
+        - {x: -92, y: 20}
+        - {x: -92, y: -30}
+        - {x: -44, y: -51}
+        - {x: 33, y: -51}
+        - {x: 82, y: -20}
+        - {x: 82, y: 5}
+        - {x: 57, y: 50}
+    - name: Blue_idel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 49}
+        - {x: -83, y: 47}
+        - {x: -92, y: 27}
+        - {x: -92, y: -22}
+        - {x: -55, y: -51}
+        - {x: 9, y: -51}
+        - {x: 82, y: -19}
+        - {x: 82, y: 10}
+        - {x: 60, y: 49}
+    - name: Blue_idel_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 48}
+        - {x: -92, y: 30}
+        - {x: -92, y: -20}
+        - {x: -50, y: -51}
+        - {x: 9, y: -51}
+        - {x: 82, y: -10}
+        - {x: 82, y: -1}
+        - {x: 57, y: 48}
+    - name: Blue_idel_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: -2}
+        - {x: 50, y: 48}
+        - {x: -69, y: 48}
+        - {x: -88, y: 23}
+        - {x: -92, y: 7}
+        - {x: -92, y: -24}
+        - {x: -37, y: -48}
+        - {x: -32, y: -50}
+        - {x: -28, y: -51}
+        - {x: -6, y: -51}
+        - {x: 5, y: -49}
+        - {x: 15, y: -44}
+        - {x: 82, y: -12}
+    - name: Blue_idel_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: -28}
+        - {x: -59, y: -51}
+        - {x: 5, y: -51}
+        - {x: 83, y: -21}
+        - {x: 83, y: 5}
+        - {x: 47, y: 47}
+        - {x: -80, y: 47}
+        - {x: -92, y: 9}
+    - name: Blue_idel_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 46}
+        - {x: -30, y: 46}
+        - {x: -37, y: 45}
+        - {x: -45, y: 44}
+        - {x: -63, y: 46}
+        - {x: -72, y: 37}
+        - {x: -89, y: 13}
+        - {x: -92, y: -1}
+        - {x: -92, y: -20}
+        - {x: -84, y: -24}
+        - {x: -36, y: -51}
+        - {x: 5, y: -51}
+        - {x: 82, y: -11}
+        - {x: 83, y: -10}
+        - {x: 83, y: 1}
+    - name: Blue_idel_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 488
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 45}
+        - {x: -93, y: 20}
+        - {x: -93, y: -42}
+        - {x: -66, y: -51}
+        - {x: 47, y: -51}
+        - {x: 83, y: -10}
+        - {x: 83, y: 5}
+        - {x: 48, y: 45}
+    - name: Blue_idel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 45}
+        - {x: -93, y: 45}
+        - {x: -93, y: -24}
+        - {x: -44, y: -51}
+        - {x: 5, y: -51}
+        - {x: 12, y: -49}
+        - {x: 75, y: -15}
+        - {x: 83, y: -9}
+        - {x: 83, y: 38}
+    - name: Blue_idel_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 44}
+        - {x: -73, y: 44}
+        - {x: -93, y: 20}
+        - {x: -93, y: -21}
+        - {x: -37, y: -51}
+        - {x: 0, y: -51}
+        - {x: 12, y: -49}
+        - {x: 83, y: -11}
+        - {x: 83, y: -6}
+        - {x: 78, y: 2}
+    - name: Blue_idel_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 4}
+        - {x: 51, y: 36}
+        - {x: 43, y: 43}
+        - {x: -64, y: 43}
+        - {x: -69, y: 38}
+        - {x: -93, y: 4}
+        - {x: -93, y: -32}
+        - {x: -40, y: -51}
+        - {x: 6, y: -51}
+        - {x: 82, y: -14}
+        - {x: 84, y: -9}
+        - {x: 84, y: -4}
+    - name: Blue_idel_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 42}
+        - {x: -93, y: 6}
+        - {x: -93, y: -24}
+        - {x: -39, y: -51}
+        - {x: 13, y: -51}
+        - {x: 84, y: -15}
+        - {x: 84, y: -2}
+        - {x: 57, y: 42}
+    - name: Blue_idel_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 41}
+        - {x: -93, y: 21}
+        - {x: -93, y: -35}
+        - {x: -45, y: -51}
+        - {x: 28, y: -51}
+        - {x: 84, y: -12}
+        - {x: 84, y: -4}
+        - {x: 51, y: 41}
+    - name: Blue_idel_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 366
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 41}
+        - {x: -93, y: 39}
+        - {x: -93, y: -33}
+        - {x: -43, y: -51}
+        - {x: 21, y: -51}
+        - {x: 84, y: -14}
+        - {x: 84, y: 0}
+        - {x: 72, y: 41}
+    - name: Blue_idel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: 4}
+        - {x: -93, y: -23}
+        - {x: -59, y: -51}
+        - {x: 20, y: -51}
+        - {x: 84, y: -30}
+        - {x: 84, y: 17}
+        - {x: 69, y: 42}
+        - {x: -71, y: 42}
+        - {x: -90, y: 19}
+    - name: Blue_idel_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 43}
+        - {x: -93, y: 13}
+        - {x: -93, y: -32}
+        - {x: -50, y: -51}
+        - {x: 35, y: -51}
+        - {x: 84, y: -25}
+        - {x: 84, y: 3}
+        - {x: 61, y: 43}
+    - name: Blue_idel_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 44}
+        - {x: -93, y: 26}
+        - {x: -93, y: -33}
+        - {x: -63, y: -51}
+        - {x: 7, y: -51}
+        - {x: 83, y: -14}
+        - {x: 83, y: 5}
+        - {x: 45, y: 44}
+    - name: Blue_idel_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: 44}
+        - {x: -93, y: -23}
+        - {x: -50, y: -51}
+        - {x: 16, y: -51}
+        - {x: 83, y: -18}
+        - {x: 83, y: 21}
+        - {x: 75, y: 44}
+    - name: Blue_idel_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 45}
+        - {x: -93, y: 11}
+        - {x: -93, y: -22}
+        - {x: -61, y: -51}
+        - {x: 26, y: -51}
+        - {x: 83, y: -24}
+        - {x: 83, y: 9}
+        - {x: 56, y: 43}
+        - {x: 52, y: 45}
+    - name: Blue_idel_23
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 244
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 46}
+        - {x: -92, y: 39}
+        - {x: -92, y: -29}
+        - {x: -42, y: -51}
+        - {x: 26, y: -51}
+        - {x: 83, y: -16}
+        - {x: 83, y: -2}
+        - {x: 48, y: 46}
+    - name: Blue_idel_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 47}
+        - {x: -78, y: 47}
+        - {x: -92, y: 25}
+        - {x: -92, y: -45}
+        - {x: -72, y: -51}
+        - {x: 53, y: -51}
+        - {x: 82, y: -12}
+        - {x: 83, y: -9}
+        - {x: 83, y: 4}
+    - name: Blue_idel_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 47}
+        - {x: -92, y: 13}
+        - {x: -92, y: -23}
+        - {x: -62, y: -51}
+        - {x: 14, y: -51}
+        - {x: 82, y: -20}
+        - {x: 82, y: 18}
+        - {x: 51, y: 47}
+    - name: Blue_idel_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 48}
+        - {x: -92, y: 22}
+        - {x: -92, y: -32}
+        - {x: -38, y: -51}
+        - {x: 17, y: -51}
+        - {x: 82, y: -10}
+        - {x: 82, y: 4}
+        - {x: 49, y: 48}
+    - name: Blue_idel_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 49}
+        - {x: -92, y: 20}
+        - {x: -92, y: -31}
+        - {x: -41, y: -51}
+        - {x: 31, y: -51}
+        - {x: 82, y: -23}
+        - {x: 82, y: 9}
+        - {x: 54, y: 49}
+    - name: Blue_idel_28
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 50}
+        - {x: -92, y: 21}
+        - {x: -92, y: -29}
+        - {x: -35, y: -51}
+        - {x: 24, y: -51}
+        - {x: 82, y: -12}
+        - {x: 82, y: 5}
+        - {x: 46, y: 50}
+    - name: Blue_idel_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 122
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 50}
+        - {x: -92, y: 24}
+        - {x: -92, y: -36}
+        - {x: -74, y: -51}
+        - {x: 18, y: -51}
+        - {x: 82, y: -26}
+        - {x: 82, y: 4}
+        - {x: 51, y: 50}
+    - name: Blue_idel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: 51}
+        - {x: -91, y: 45}
+        - {x: -91, y: -25}
+        - {x: -54, y: -51}
+        - {x: 1, y: -51}
+        - {x: 81, y: -9}
+        - {x: 81, y: 5}
+        - {x: 59, y: 51}
+    - name: Blue_idel_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 52}
+        - {x: -91, y: 24}
+        - {x: -91, y: -31}
+        - {x: -41, y: -51}
+        - {x: 23, y: -51}
+        - {x: 81, y: -8}
+        - {x: 81, y: 19}
+        - {x: 48, y: 52}
+    - name: Blue_idel_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 53}
+        - {x: -85, y: 52}
+        - {x: -91, y: 18}
+        - {x: -91, y: -22}
+        - {x: -47, y: -51}
+        - {x: 22, y: -51}
+        - {x: 81, y: -8}
+        - {x: 81, y: 17}
+        - {x: 52, y: 53}
+    - name: Blue_idel_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: -23}
+        - {x: -55, y: -51}
+        - {x: 6, y: -51}
+        - {x: 81, y: -23}
+        - {x: 81, y: 27}
+        - {x: 63, y: 54}
+        - {x: -76, y: 54}
+        - {x: -91, y: 5}
+    - name: Blue_idel_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 188
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 54}
+        - {x: -86, y: 53}
+        - {x: -91, y: 40}
+        - {x: -91, y: -35}
+        - {x: -41, y: -51}
+        - {x: 35, y: -51}
+        - {x: 81, y: -16}
+        - {x: 81, y: 10}
+        - {x: 54, y: 54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

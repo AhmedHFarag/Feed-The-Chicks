@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 3db0e6f5a6872954fab34028e18fce46
+timeCreated: 1464600597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dash_green_0
+    21300002: dash_green_1
+    21300004: dash_green_2
+    21300006: dash_green_3
+    21300008: dash_green_4
+    21300010: dash_green_5
+    21300012: dash_green_6
+    21300014: dash_green_7
+    21300016: dash_green_8
+    21300018: dash_green_9
+    21300020: dash_green_10
+    21300022: dash_green_11
+    21300024: dash_green_12
+    21300026: dash_green_13
+    21300028: dash_green_14
+    21300030: dash_green_15
+    21300032: dash_green_16
+    21300034: dash_green_17
+    21300036: dash_green_18
+    21300038: dash_green_19
+    21300040: dash_green_20
+    21300042: dash_green_21
+    21300044: dash_green_22
+    21300046: dash_green_23
+    21300048: dash_green_24
+    21300050: dash_green_25
+    21300052: dash_green_26
+    21300054: dash_green_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dash_green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 37}
+        - {x: -4, y: 49}
+        - {x: -26, y: 49}
+        - {x: -64, y: 5}
+        - {x: -64, y: -27}
+        - {x: -31, y: -61}
+        - {x: 23, y: -61}
+        - {x: 42, y: -56}
+        - {x: 47, y: -34}
+        - {x: 47, y: -10}
+        - {x: 41, y: 10}
+    - name: dash_green_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 48}
+        - {x: -27, y: 48}
+        - {x: -65, y: 14}
+        - {x: -65, y: -31}
+        - {x: -52, y: -60}
+        - {x: -41, y: -62}
+        - {x: 22, y: -62}
+        - {x: 36, y: -49}
+        - {x: 46, y: -25}
+        - {x: 46, y: 18}
+    - name: dash_green_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 48}
+        - {x: -39, y: 44}
+        - {x: -66, y: 4}
+        - {x: -66, y: -24}
+        - {x: -47, y: -57}
+        - {x: -27, y: -62}
+        - {x: 46, y: -62}
+        - {x: 46, y: 33}
+        - {x: -1, y: 48}
+    - name: dash_green_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 48}
+        - {x: -37, y: 48}
+        - {x: -67, y: 22}
+        - {x: -67, y: -43}
+        - {x: -60, y: -62}
+        - {x: 25, y: -62}
+        - {x: 45, y: -39}
+        - {x: 45, y: 7}
+        - {x: 37, y: 22}
+    - name: dash_green_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 47}
+        - {x: -68, y: 16}
+        - {x: -68, y: -31}
+        - {x: -52, y: -63}
+        - {x: 44, y: -63}
+        - {x: 44, y: 30}
+        - {x: 9, y: 47}
+    - name: dash_green_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 47}
+        - {x: -37, y: 47}
+        - {x: -70, y: -6}
+        - {x: -70, y: -20}
+        - {x: -68, y: -29}
+        - {x: -47, y: -63}
+        - {x: 36, y: -63}
+        - {x: 43, y: -53}
+        - {x: 43, y: 21}
+        - {x: 20, y: 35}
+    - name: dash_green_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 46}
+        - {x: -41, y: 46}
+        - {x: -71, y: 9}
+        - {x: -71, y: -29}
+        - {x: -44, y: -63}
+        - {x: 16, y: -63}
+        - {x: 42, y: -51}
+        - {x: 42, y: 1}
+        - {x: 39, y: 32}
+    - name: dash_green_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 45}
+        - {x: -44, y: 45}
+        - {x: -72, y: 9}
+        - {x: -72, y: -40}
+        - {x: -37, y: -63}
+        - {x: 26, y: -63}
+        - {x: 41, y: -44}
+        - {x: 41, y: 13}
+        - {x: 24, y: 35}
+    - name: dash_green_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 45}
+        - {x: -44, y: 45}
+        - {x: -73, y: 3}
+        - {x: -73, y: -30}
+        - {x: -49, y: -64}
+        - {x: 12, y: -64}
+        - {x: 40, y: -54}
+        - {x: 40, y: 24}
+    - name: dash_green_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 44}
+        - {x: -42, y: 44}
+        - {x: -73, y: -6}
+        - {x: -73, y: -36}
+        - {x: -43, y: -64}
+        - {x: 30, y: -64}
+        - {x: 39, y: -39}
+        - {x: 39, y: 4}
+        - {x: 8, y: 34}
+    - name: dash_green_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -4}
+        - {x: -74, y: -39}
+        - {x: -58, y: -65}
+        - {x: 35, y: -65}
+        - {x: 38, y: -64}
+        - {x: 38, y: 2}
+        - {x: 26, y: 39}
+        - {x: 4, y: 43}
+        - {x: -43, y: 43}
+        - {x: -53, y: 29}
+    - name: dash_green_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 462
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 35}
+        - {x: -19, y: 45}
+        - {x: -38, y: 45}
+        - {x: -72, y: -10}
+        - {x: -72, y: -18}
+        - {x: -69, y: -31}
+        - {x: -38, y: -62}
+        - {x: -35, y: -63}
+        - {x: 10, y: -63}
+        - {x: 35, y: -47}
+        - {x: 41, y: -34}
+        - {x: 41, y: -6}
+    - name: dash_green_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 47}
+        - {x: -68, y: -1}
+        - {x: -68, y: -34}
+        - {x: -31, y: -63}
+        - {x: 38, y: -63}
+        - {x: 44, y: -62}
+        - {x: 44, y: 33}
+        - {x: 0, y: 47}
+    - name: dash_green_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 15}
+        - {x: 2, y: 49}
+        - {x: -27, y: 49}
+        - {x: -65, y: 17}
+        - {x: -65, y: -33}
+        - {x: -52, y: -60}
+        - {x: -40, y: -62}
+        - {x: 22, y: -62}
+        - {x: 36, y: -49}
+        - {x: 46, y: -25}
+        - {x: 46, y: -5}
+    - name: dash_green_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 54}
+        - {x: -18, y: 54}
+        - {x: -60, y: 20}
+        - {x: -60, y: -24}
+        - {x: -28, y: -59}
+        - {x: -17, y: -62}
+        - {x: 28, y: -62}
+        - {x: 49, y: -40}
+        - {x: 49, y: 4}
+        - {x: 42, y: 26}
+    - name: dash_green_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 59}
+        - {x: -55, y: 25}
+        - {x: -55, y: -23}
+        - {x: -28, y: -63}
+        - {x: 36, y: -63}
+        - {x: 50, y: -57}
+        - {x: 52, y: -43}
+        - {x: 52, y: 27}
+        - {x: 23, y: 59}
+    - name: dash_green_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 64}
+        - {x: -49, y: 38}
+        - {x: -49, y: -29}
+        - {x: -43, y: -64}
+        - {x: 33, y: -64}
+        - {x: 57, y: -37}
+        - {x: 57, y: 29}
+        - {x: 32, y: 64}
+    - name: dash_green_17
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 308
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 65}
+        - {x: 10, y: 65}
+        - {x: -45, y: 36}
+        - {x: -45, y: -25}
+        - {x: -37, y: -65}
+        - {x: 48, y: -65}
+        - {x: 61, y: -23}
+        - {x: 61, y: 30}
+    - name: dash_green_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 64}
+        - {x: 0, y: 64}
+        - {x: -14, y: 61}
+        - {x: -47, y: 22}
+        - {x: -47, y: -36}
+        - {x: -34, y: -55}
+        - {x: -8, y: -64}
+        - {x: 35, y: -64}
+        - {x: 58, y: -35}
+        - {x: 58, y: 28}
+    - name: dash_green_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 63}
+        - {x: 2, y: 62}
+        - {x: -50, y: 31}
+        - {x: -50, y: -64}
+        - {x: 48, y: -64}
+        - {x: 56, y: -38}
+        - {x: 56, y: 36}
+        - {x: 31, y: 63}
+    - name: dash_green_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 62}
+        - {x: -52, y: 26}
+        - {x: -52, y: -10}
+        - {x: -40, y: -51}
+        - {x: -21, y: -64}
+        - {x: 29, y: -64}
+        - {x: 53, y: -46}
+        - {x: 53, y: 26}
+        - {x: 20, y: 62}
+    - name: dash_green_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 61}
+        - {x: -54, y: 13}
+        - {x: -54, y: -23}
+        - {x: -36, y: -63}
+        - {x: 51, y: -63}
+        - {x: 52, y: -62}
+        - {x: 52, y: 35}
+        - {x: 42, y: 61}
+    - name: dash_green_22
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 59}
+        - {x: -13, y: 58}
+        - {x: -56, y: 23}
+        - {x: -56, y: -15}
+        - {x: -44, y: -53}
+        - {x: -36, y: -63}
+        - {x: 37, y: -63}
+        - {x: 52, y: -57}
+        - {x: 52, y: 22}
+        - {x: 12, y: 59}
+    - name: dash_green_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 154
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -57, y: 22}
+        - {x: -57, y: -26}
+        - {x: -48, y: -59}
+        - {x: -33, y: -63}
+        - {x: 51, y: -63}
+        - {x: 51, y: 23}
+        - {x: 10, y: 57}
+    - name: dash_green_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 55}
+        - {x: -15, y: 55}
+        - {x: -59, y: 18}
+        - {x: -59, y: -26}
+        - {x: -27, y: -62}
+        - {x: 18, y: -62}
+        - {x: 31, y: -60}
+        - {x: 50, y: -35}
+        - {x: 50, y: -8}
+        - {x: 41, y: 31}
+    - name: dash_green_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 53}
+        - {x: -61, y: 53}
+        - {x: -61, y: -62}
+        - {x: 43, y: -62}
+        - {x: 49, y: -46}
+        - {x: 49, y: 3}
+        - {x: 44, y: 24}
+    - name: dash_green_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 50}
+        - {x: -22, y: 50}
+        - {x: -63, y: 5}
+        - {x: -63, y: -17}
+        - {x: -62, y: -19}
+        - {x: -37, y: -52}
+        - {x: -26, y: -61}
+        - {x: -14, y: -62}
+        - {x: 30, y: -62}
+        - {x: 48, y: -45}
+        - {x: 48, y: -1}
+        - {x: 32, y: 37}
+    - name: dash_green_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 37}
+        - {x: -4, y: 49}
+        - {x: -26, y: 49}
+        - {x: -64, y: 5}
+        - {x: -64, y: -27}
+        - {x: -31, y: -61}
+        - {x: 23, y: -61}
+        - {x: 42, y: -56}
+        - {x: 47, y: -34}
+        - {x: 47, y: -10}
+        - {x: 41, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

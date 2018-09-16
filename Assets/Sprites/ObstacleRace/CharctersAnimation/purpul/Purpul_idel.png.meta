@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 8d2900501a3138e4ba64f17289c735f2
+timeCreated: 1460748326
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idel_0
+    21300002: idel_1
+    21300004: idel_2
+    21300006: idel_3
+    21300008: idel_4
+    21300010: idel_5
+    21300012: idel_6
+    21300014: idel_7
+    21300016: idel_8
+    21300018: idel_9
+    21300020: idel_10
+    21300022: idel_11
+    21300024: idel_12
+    21300026: idel_13
+    21300028: idel_14
+    21300030: idel_15
+    21300032: idel_16
+    21300034: idel_17
+    21300036: idel_18
+    21300038: idel_19
+    21300040: idel_20
+    21300042: idel_21
+    21300044: idel_22
+    21300046: idel_23
+    21300048: idel_24
+    21300050: idel_25
+    21300052: idel_26
+    21300054: idel_27
+    21300056: idel_28
+    21300058: idel_29
+    21300060: idel_30
+    21300062: idel_31
+    21300064: idel_32
+    21300066: idel_33
+    21300068: idel_34
+    21300070: idel_35
+    21300072: idel_36
+    21300074: idel_37
+    21300076: idel_38
+    21300078: idel_39
+    21300080: idel_40
+    21300082: Purpul_idel_0
+    21300084: Purpul_idel_1
+    21300086: Purpul_idel_2
+    21300088: Purpul_idel_3
+    21300090: Purpul_idel_4
+    21300092: Purpul_idel_5
+    21300094: Purpul_idel_6
+    21300096: Purpul_idel_7
+    21300098: Purpul_idel_8
+    21300100: Purpul_idel_9
+    21300102: Purpul_idel_10
+    21300104: Purpul_idel_11
+    21300106: Purpul_idel_12
+    21300108: Purpul_idel_13
+    21300110: Purpul_idel_14
+    21300112: Purpul_idel_15
+    21300114: Purpul_idel_16
+    21300116: Purpul_idel_17
+    21300118: Purpul_idel_18
+    21300120: Purpul_idel_19
+    21300122: Purpul_idel_20
+    21300124: Purpul_idel_21
+    21300126: Purpul_idel_22
+    21300128: Purpul_idel_23
+    21300130: Purpul_idel_24
+    21300132: Purpul_idel_25
+    21300134: Purpul_idel_26
+    21300136: Purpul_idel_27
+    21300138: Purpul_idel_28
+    21300140: Purpul_idel_29
+    21300142: Purpul_idel_30
+    21300144: Purpul_idel_31
+    21300146: Purpul_idel_32
+    21300148: Purpul_idel_33
+    21300150: Purpul_idel_34
+    21300152: Purpul_idel_35
+    21300154: Purpul_idel_36
+    21300156: Purpul_idel_37
+    21300158: Purpul_idel_38
+    21300160: Purpul_idel_39
+    21300162: Purpul_idel_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Purpul_idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 54}
+        - {x: -8, y: 54}
+        - {x: -55, y: 27}
+        - {x: -55, y: -17}
+        - {x: -39, y: -57}
+        - {x: 34, y: -57}
+        - {x: 54, y: -33}
+        - {x: 54, y: 34}
+        - {x: 39, y: 53}
+    - name: Purpul_idel_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 52}
+        - {x: -56, y: 45}
+        - {x: -56, y: -22}
+        - {x: -34, y: -58}
+        - {x: 33, y: -58}
+        - {x: 36, y: -57}
+        - {x: 55, y: -12}
+        - {x: 55, y: 36}
+        - {x: 51, y: 52}
+    - name: Purpul_idel_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -39}
+        - {x: -29, y: -58}
+        - {x: 46, y: -58}
+        - {x: 55, y: -52}
+        - {x: 55, y: 52}
+        - {x: -15, y: 52}
+        - {x: -56, y: 41}
+    - name: Purpul_idel_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 51}
+        - {x: -56, y: 15}
+        - {x: -56, y: -31}
+        - {x: -40, y: -58}
+        - {x: 38, y: -58}
+        - {x: 55, y: -15}
+        - {x: 55, y: 12}
+        - {x: 41, y: 51}
+    - name: Purpul_idel_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 51}
+        - {x: -21, y: 51}
+        - {x: -47, y: 26}
+        - {x: -56, y: 16}
+        - {x: -56, y: -23}
+        - {x: -39, y: -58}
+        - {x: 31, y: -58}
+        - {x: 41, y: -44}
+        - {x: 55, y: -12}
+        - {x: 55, y: 17}
+    - name: Purpul_idel_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 50}
+        - {x: -56, y: 17}
+        - {x: -56, y: -29}
+        - {x: -41, y: -58}
+        - {x: 31, y: -58}
+        - {x: 52, y: -53}
+        - {x: 56, y: -43}
+        - {x: 56, y: 20}
+        - {x: 35, y: 50}
+    - name: Purpul_idel_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 670
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 50}
+        - {x: -56, y: 24}
+        - {x: -56, y: -36}
+        - {x: -42, y: -58}
+        - {x: 22, y: -58}
+        - {x: 56, y: -50}
+        - {x: 56, y: 13}
+        - {x: 35, y: 50}
+    - name: Purpul_idel_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 49}
+        - {x: -57, y: 40}
+        - {x: -57, y: -43}
+        - {x: -47, y: -58}
+        - {x: 37, y: -58}
+        - {x: 56, y: -31}
+        - {x: 56, y: 49}
+    - name: Purpul_idel_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 49}
+        - {x: -55, y: 11}
+        - {x: -57, y: 1}
+        - {x: -57, y: -9}
+        - {x: -40, y: -47}
+        - {x: -25, y: -58}
+        - {x: 12, y: -58}
+        - {x: 36, y: -53}
+        - {x: 56, y: -10}
+        - {x: 56, y: 10}
+        - {x: 50, y: 49}
+    - name: Purpul_idel_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -57, y: 38}
+        - {x: -57, y: -21}
+        - {x: -33, y: -58}
+        - {x: 34, y: -58}
+        - {x: 56, y: -15}
+        - {x: 56, y: 40}
+        - {x: 54, y: 48}
+    - name: Purpul_idel_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -49, y: 24}
+        - {x: -57, y: 12}
+        - {x: -57, y: -28}
+        - {x: -32, y: -58}
+        - {x: 38, y: -58}
+        - {x: 57, y: -16}
+        - {x: 57, y: 20}
+        - {x: 45, y: 48}
+    - name: Purpul_idel_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 47}
+        - {x: -57, y: 19}
+        - {x: -57, y: -29}
+        - {x: -35, y: -58}
+        - {x: 24, y: -58}
+        - {x: 52, y: -45}
+        - {x: 57, y: -3}
+        - {x: 57, y: 2}
+        - {x: 41, y: 47}
+    - name: Purpul_idel_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 47}
+        - {x: -57, y: 19}
+        - {x: -57, y: -33}
+        - {x: -39, y: -58}
+        - {x: 31, y: -58}
+        - {x: 45, y: -51}
+        - {x: 57, y: -15}
+        - {x: 57, y: 14}
+        - {x: 42, y: 47}
+    - name: Purpul_idel_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 536
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 46}
+        - {x: -58, y: 38}
+        - {x: -58, y: -22}
+        - {x: -36, y: -58}
+        - {x: 37, y: -58}
+        - {x: 57, y: -25}
+        - {x: 57, y: 46}
+    - name: Purpul_idel_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 46}
+        - {x: -58, y: 15}
+        - {x: -58, y: -20}
+        - {x: -56, y: -33}
+        - {x: -35, y: -58}
+        - {x: 31, y: -58}
+        - {x: 57, y: -22}
+        - {x: 57, y: 17}
+        - {x: 40, y: 46}
+    - name: Purpul_idel_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 45}
+        - {x: -48, y: 18}
+        - {x: -58, y: 7}
+        - {x: -58, y: -22}
+        - {x: -51, y: -39}
+        - {x: -29, y: -58}
+        - {x: 16, y: -58}
+        - {x: 36, y: -54}
+        - {x: 58, y: -24}
+        - {x: 58, y: 12}
+        - {x: 49, y: 45}
+    - name: Purpul_idel_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 45}
+        - {x: -58, y: 18}
+        - {x: -58, y: -14}
+        - {x: -49, y: -51}
+        - {x: -40, y: -57}
+        - {x: 25, y: -57}
+        - {x: 49, y: -50}
+        - {x: 58, y: -35}
+        - {x: 58, y: 17}
+        - {x: 41, y: 45}
+    - name: Purpul_idel_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 44}
+        - {x: -53, y: 23}
+        - {x: -58, y: 12}
+        - {x: -58, y: -26}
+        - {x: -33, y: -57}
+        - {x: 38, y: -57}
+        - {x: 58, y: -27}
+        - {x: 58, y: 22}
+        - {x: 37, y: 44}
+    - name: Purpul_idel_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 43}
+        - {x: 35, y: 44}
+        - {x: -3, y: 44}
+        - {x: -52, y: 22}
+        - {x: -58, y: 14}
+        - {x: -58, y: -41}
+        - {x: -31, y: -57}
+        - {x: 40, y: -57}
+        - {x: 50, y: -40}
+        - {x: 58, y: -9}
+        - {x: 58, y: 6}
+    - name: Purpul_idel_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 43}
+        - {x: 1, y: 43}
+        - {x: -14, y: 38}
+        - {x: -58, y: 14}
+        - {x: -58, y: -15}
+        - {x: -49, y: -51}
+        - {x: -37, y: -57}
+        - {x: 21, y: -57}
+        - {x: 41, y: -53}
+        - {x: 58, y: -15}
+        - {x: 58, y: 1}
+        - {x: 37, y: 42}
+    - name: Purpul_idel_20
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 402
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 42}
+        - {x: -59, y: 28}
+        - {x: -59, y: -44}
+        - {x: -39, y: -57}
+        - {x: 49, y: -57}
+        - {x: 59, y: -39}
+        - {x: 59, y: 29}
+        - {x: 40, y: 42}
+    - name: Purpul_idel_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 43}
+        - {x: 1, y: 43}
+        - {x: -14, y: 38}
+        - {x: -58, y: 14}
+        - {x: -58, y: -15}
+        - {x: -49, y: -51}
+        - {x: -37, y: -57}
+        - {x: 21, y: -57}
+        - {x: 41, y: -53}
+        - {x: 58, y: -15}
+        - {x: 58, y: 1}
+        - {x: 37, y: 42}
+    - name: Purpul_idel_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 43}
+        - {x: 35, y: 44}
+        - {x: -3, y: 44}
+        - {x: -52, y: 22}
+        - {x: -58, y: 14}
+        - {x: -58, y: -41}
+        - {x: -31, y: -57}
+        - {x: 40, y: -57}
+        - {x: 50, y: -40}
+        - {x: 58, y: -9}
+        - {x: 58, y: 6}
+    - name: Purpul_idel_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 44}
+        - {x: -53, y: 23}
+        - {x: -58, y: 12}
+        - {x: -58, y: -26}
+        - {x: -33, y: -57}
+        - {x: 38, y: -57}
+        - {x: 58, y: -27}
+        - {x: 58, y: 22}
+        - {x: 37, y: 44}
+    - name: Purpul_idel_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 45}
+        - {x: -58, y: 18}
+        - {x: -58, y: -14}
+        - {x: -49, y: -51}
+        - {x: -40, y: -57}
+        - {x: 25, y: -57}
+        - {x: 49, y: -50}
+        - {x: 58, y: -35}
+        - {x: 58, y: 17}
+        - {x: 41, y: 45}
+    - name: Purpul_idel_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 45}
+        - {x: -48, y: 18}
+        - {x: -58, y: 7}
+        - {x: -58, y: -22}
+        - {x: -51, y: -39}
+        - {x: -29, y: -58}
+        - {x: 16, y: -58}
+        - {x: 36, y: -54}
+        - {x: 58, y: -24}
+        - {x: 58, y: 12}
+        - {x: 49, y: 45}
+    - name: Purpul_idel_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 46}
+        - {x: -58, y: 15}
+        - {x: -58, y: -20}
+        - {x: -56, y: -33}
+        - {x: -35, y: -58}
+        - {x: 31, y: -58}
+        - {x: 57, y: -22}
+        - {x: 57, y: 17}
+        - {x: 40, y: 46}
+    - name: Purpul_idel_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 268
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 46}
+        - {x: -58, y: 38}
+        - {x: -58, y: -22}
+        - {x: -36, y: -58}
+        - {x: 37, y: -58}
+        - {x: 57, y: -25}
+        - {x: 57, y: 46}
+    - name: Purpul_idel_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 47}
+        - {x: -57, y: 19}
+        - {x: -57, y: -33}
+        - {x: -39, y: -58}
+        - {x: 31, y: -58}
+        - {x: 45, y: -51}
+        - {x: 57, y: -15}
+        - {x: 57, y: 14}
+        - {x: 42, y: 47}
+    - name: Purpul_idel_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 47}
+        - {x: -57, y: 19}
+        - {x: -57, y: -29}
+        - {x: -35, y: -58}
+        - {x: 24, y: -58}
+        - {x: 52, y: -45}
+        - {x: 57, y: -3}
+        - {x: 57, y: 2}
+        - {x: 41, y: 47}
+    - name: Purpul_idel_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -49, y: 24}
+        - {x: -57, y: 12}
+        - {x: -57, y: -28}
+        - {x: -32, y: -58}
+        - {x: 38, y: -58}
+        - {x: 57, y: -16}
+        - {x: 57, y: 20}
+        - {x: 45, y: 48}
+    - name: Purpul_idel_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -57, y: 38}
+        - {x: -57, y: -21}
+        - {x: -33, y: -58}
+        - {x: 34, y: -58}
+        - {x: 56, y: -15}
+        - {x: 56, y: 40}
+        - {x: 54, y: 48}
+    - name: Purpul_idel_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 49}
+        - {x: -55, y: 11}
+        - {x: -57, y: 1}
+        - {x: -57, y: -9}
+        - {x: -40, y: -47}
+        - {x: -25, y: -58}
+        - {x: 12, y: -58}
+        - {x: 36, y: -53}
+        - {x: 56, y: -10}
+        - {x: 56, y: 10}
+        - {x: 50, y: 49}
+    - name: Purpul_idel_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 49}
+        - {x: -57, y: 40}
+        - {x: -57, y: -43}
+        - {x: -47, y: -58}
+        - {x: 37, y: -58}
+        - {x: 56, y: -31}
+        - {x: 56, y: 49}
+    - name: Purpul_idel_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 134
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 50}
+        - {x: -56, y: 24}
+        - {x: -56, y: -36}
+        - {x: -42, y: -58}
+        - {x: 22, y: -58}
+        - {x: 56, y: -50}
+        - {x: 56, y: 13}
+        - {x: 35, y: 50}
+    - name: Purpul_idel_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 50}
+        - {x: -56, y: 17}
+        - {x: -56, y: -29}
+        - {x: -41, y: -58}
+        - {x: 31, y: -58}
+        - {x: 52, y: -53}
+        - {x: 56, y: -43}
+        - {x: 56, y: 20}
+        - {x: 35, y: 50}
+    - name: Purpul_idel_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 51}
+        - {x: -21, y: 51}
+        - {x: -47, y: 26}
+        - {x: -56, y: 16}
+        - {x: -56, y: -23}
+        - {x: -39, y: -58}
+        - {x: 31, y: -58}
+        - {x: 41, y: -44}
+        - {x: 55, y: -12}
+        - {x: 55, y: 17}
+    - name: Purpul_idel_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 51}
+        - {x: -56, y: 15}
+        - {x: -56, y: -31}
+        - {x: -40, y: -58}
+        - {x: 38, y: -58}
+        - {x: 55, y: -15}
+        - {x: 55, y: 12}
+        - {x: 41, y: 51}
+    - name: Purpul_idel_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -39}
+        - {x: -29, y: -58}
+        - {x: 46, y: -58}
+        - {x: 55, y: -52}
+        - {x: 55, y: 52}
+        - {x: -15, y: 52}
+        - {x: -56, y: 41}
+    - name: Purpul_idel_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 52}
+        - {x: -56, y: 45}
+        - {x: -56, y: -22}
+        - {x: -34, y: -58}
+        - {x: 33, y: -58}
+        - {x: 36, y: -57}
+        - {x: 55, y: -12}
+        - {x: 55, y: 36}
+        - {x: 51, y: 52}
+    - name: Purpul_idel_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 53}
+        - {x: -55, y: 31}
+        - {x: -55, y: -58}
+        - {x: 47, y: -58}
+        - {x: 54, y: -56}
+        - {x: 54, y: 23}
+        - {x: 43, y: 53}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

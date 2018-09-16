@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: af1110149d8ad1e49b3a15c2290dfffe
+timeCreated: 1464600626
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dash_purple_0
+    21300002: dash_purple_1
+    21300004: dash_purple_2
+    21300006: dash_purple_3
+    21300008: dash_purple_4
+    21300010: dash_purple_5
+    21300012: dash_purple_6
+    21300014: dash_purple_7
+    21300016: dash_purple_8
+    21300018: dash_purple_9
+    21300020: dash_purple_10
+    21300022: dash_purple_11
+    21300024: dash_purple_12
+    21300026: dash_purple_13
+    21300028: dash_purple_14
+    21300030: dash_purple_15
+    21300032: dash_purple_16
+    21300034: dash_purple_17
+    21300036: dash_purple_18
+    21300038: dash_purple_19
+    21300040: dash_purple_20
+    21300042: dash_purple_21
+    21300044: dash_purple_22
+    21300046: dash_purple_23
+    21300048: dash_purple_24
+    21300050: dash_purple_25
+    21300052: dash_purple_26
+    21300054: dash_purple_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dash_purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 48}
+        - {x: -15, y: 48}
+        - {x: -56, y: 14}
+        - {x: -56, y: -53}
+        - {x: -55, y: -57}
+        - {x: -33, y: -63}
+        - {x: 34, y: -63}
+        - {x: 53, y: -28}
+        - {x: 53, y: 10}
+        - {x: 29, y: 47}
+    - name: dash_purple_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 49}
+        - {x: -13, y: 49}
+        - {x: -59, y: 17}
+        - {x: -59, y: -22}
+        - {x: -47, y: -60}
+        - {x: -33, y: -63}
+        - {x: 17, y: -63}
+        - {x: 35, y: -50}
+        - {x: 51, y: -26}
+        - {x: 51, y: 4}
+    - name: dash_purple_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 49}
+        - {x: -57, y: 14}
+        - {x: -61, y: 2}
+        - {x: -61, y: -27}
+        - {x: -46, y: -64}
+        - {x: 26, y: -64}
+        - {x: 49, y: -58}
+        - {x: 49, y: 25}
+        - {x: 26, y: 49}
+    - name: dash_purple_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 50}
+        - {x: -20, y: 50}
+        - {x: -63, y: 13}
+        - {x: -63, y: -30}
+        - {x: -32, y: -64}
+        - {x: 20, y: -64}
+        - {x: 23, y: -63}
+        - {x: 47, y: -22}
+        - {x: 47, y: 6}
+        - {x: 25, y: 49}
+    - name: dash_purple_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 50}
+        - {x: -19, y: 50}
+        - {x: -65, y: 11}
+        - {x: -65, y: -27}
+        - {x: -38, y: -65}
+        - {x: 8, y: -65}
+        - {x: 41, y: -46}
+        - {x: 45, y: -22}
+        - {x: 45, y: 5}
+    - name: dash_purple_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 752
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -32, y: 48}
+        - {x: -67, y: 8}
+        - {x: -67, y: -28}
+        - {x: -36, y: -65}
+        - {x: 22, y: -65}
+        - {x: 43, y: -20}
+        - {x: 43, y: 14}
+        - {x: 16, y: 50}
+    - name: dash_purple_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 50}
+        - {x: -50, y: 41}
+        - {x: -68, y: -2}
+        - {x: -68, y: -42}
+        - {x: -35, y: -66}
+        - {x: 2, y: -66}
+        - {x: 22, y: -63}
+        - {x: 40, y: -25}
+        - {x: 40, y: 9}
+        - {x: 12, y: 50}
+    - name: dash_purple_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 50}
+        - {x: -30, y: 50}
+        - {x: -58, y: 40}
+        - {x: -70, y: -11}
+        - {x: -70, y: -39}
+        - {x: -47, y: -66}
+        - {x: 10, y: -66}
+        - {x: 24, y: -63}
+        - {x: 32, y: -37}
+        - {x: 38, y: -10}
+        - {x: 38, y: 9}
+    - name: dash_purple_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 50}
+        - {x: -27, y: 50}
+        - {x: -55, y: 38}
+        - {x: -71, y: -14}
+        - {x: -71, y: -40}
+        - {x: -39, y: -64}
+        - {x: -27, y: -67}
+        - {x: 14, y: -67}
+        - {x: 24, y: -65}
+        - {x: 35, y: -31}
+        - {x: 35, y: 21}
+    - name: dash_purple_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 49}
+        - {x: -61, y: 35}
+        - {x: -72, y: -5}
+        - {x: -72, y: -36}
+        - {x: -70, y: -47}
+        - {x: -32, y: -68}
+        - {x: 31, y: -68}
+        - {x: 33, y: -61}
+        - {x: 33, y: 38}
+        - {x: 16, y: 49}
+    - name: dash_purple_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 49}
+        - {x: -64, y: 33}
+        - {x: -72, y: -18}
+        - {x: -72, y: -39}
+        - {x: -67, y: -47}
+        - {x: -45, y: -69}
+        - {x: -3, y: -69}
+        - {x: 22, y: -64}
+        - {x: 30, y: -35}
+        - {x: 30, y: 11}
+        - {x: -2, y: 49}
+    - name: dash_purple_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 564
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 50}
+        - {x: -30, y: 50}
+        - {x: -58, y: 40}
+        - {x: -70, y: -11}
+        - {x: -70, y: -39}
+        - {x: -47, y: -66}
+        - {x: 10, y: -66}
+        - {x: 24, y: -63}
+        - {x: 32, y: -37}
+        - {x: 38, y: -10}
+        - {x: 38, y: 9}
+    - name: dash_purple_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 50}
+        - {x: -19, y: 50}
+        - {x: -65, y: 11}
+        - {x: -65, y: -27}
+        - {x: -38, y: -65}
+        - {x: 8, y: -65}
+        - {x: 41, y: -46}
+        - {x: 45, y: -22}
+        - {x: 45, y: 5}
+    - name: dash_purple_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 49}
+        - {x: -13, y: 49}
+        - {x: -59, y: 17}
+        - {x: -59, y: -22}
+        - {x: -47, y: -60}
+        - {x: -33, y: -63}
+        - {x: 17, y: -63}
+        - {x: 35, y: -50}
+        - {x: 51, y: -26}
+        - {x: 51, y: 4}
+    - name: dash_purple_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 51}
+        - {x: -11, y: 49}
+        - {x: -52, y: 29}
+        - {x: -52, y: -22}
+        - {x: -42, y: -63}
+        - {x: 29, y: -63}
+        - {x: 57, y: -36}
+        - {x: 57, y: 13}
+        - {x: 39, y: 51}
+    - name: dash_purple_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -45, y: 30}
+        - {x: -45, y: -33}
+        - {x: -30, y: -66}
+        - {x: 31, y: -66}
+        - {x: 63, y: -35}
+        - {x: 63, y: 27}
+        - {x: 59, y: 47}
+        - {x: 41, y: 54}
+        - {x: 8, y: 54}
+        - {x: -1, y: 48}
+    - name: dash_purple_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 56}
+        - {x: -36, y: 36}
+        - {x: -36, y: -55}
+        - {x: -9, y: -68}
+        - {x: 37, y: -68}
+        - {x: 69, y: -39}
+        - {x: 69, y: 49}
+        - {x: 61, y: 56}
+    - name: dash_purple_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 376
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -62}
+        - {x: -30, y: -69}
+        - {x: 55, y: -69}
+        - {x: 76, y: -25}
+        - {x: 76, y: 56}
+        - {x: 1, y: 56}
+        - {x: -33, y: 49}
+    - name: dash_purple_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 56}
+        - {x: -34, y: 38}
+        - {x: -34, y: -51}
+        - {x: -33, y: -55}
+        - {x: -10, y: -69}
+        - {x: 33, y: -69}
+        - {x: 71, y: -44}
+        - {x: 71, y: 53}
+        - {x: 64, y: 56}
+    - name: dash_purple_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 44}
+        - {x: 54, y: 56}
+        - {x: -13, y: 56}
+        - {x: -37, y: 46}
+        - {x: -37, y: -45}
+        - {x: -27, y: -68}
+        - {x: 21, y: -68}
+        - {x: 39, y: -56}
+        - {x: 68, y: -32}
+    - name: dash_purple_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 55}
+        - {x: -1, y: 55}
+        - {x: -32, y: 45}
+        - {x: -40, y: 37}
+        - {x: -40, y: -34}
+        - {x: -29, y: -67}
+        - {x: 28, y: -67}
+        - {x: 67, y: -33}
+        - {x: 67, y: 27}
+        - {x: 61, y: 50}
+    - name: dash_purple_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 54}
+        - {x: -2, y: 54}
+        - {x: -43, y: 35}
+        - {x: -43, y: -44}
+        - {x: -36, y: -66}
+        - {x: 52, y: -66}
+        - {x: 65, y: -30}
+        - {x: 65, y: 48}
+    - name: dash_purple_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 30}
+        - {x: 51, y: 53}
+        - {x: 8, y: 53}
+        - {x: -37, y: 35}
+        - {x: -46, y: 23}
+        - {x: -46, y: -8}
+        - {x: -39, y: -36}
+        - {x: -29, y: -61}
+        - {x: -5, y: -66}
+        - {x: 27, y: -66}
+        - {x: 35, y: -58}
+        - {x: 60, y: -25}
+        - {x: 63, y: -19}
+    - name: dash_purple_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 188
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 53}
+        - {x: -7, y: 53}
+        - {x: -48, y: 24}
+        - {x: -48, y: -43}
+        - {x: -31, y: -65}
+        - {x: 23, y: -65}
+        - {x: 46, y: -57}
+        - {x: 61, y: -27}
+        - {x: 61, y: 6}
+        - {x: 55, y: 49}
+    - name: dash_purple_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 52}
+        - {x: -51, y: 46}
+        - {x: -51, y: -30}
+        - {x: -43, y: -64}
+        - {x: 43, y: -64}
+        - {x: 57, y: -61}
+        - {x: 59, y: -53}
+        - {x: 59, y: 52}
+    - name: dash_purple_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 50}
+        - {x: -53, y: 23}
+        - {x: -53, y: -23}
+        - {x: -33, y: -63}
+        - {x: 25, y: -63}
+        - {x: 57, y: -26}
+        - {x: 57, y: 15}
+        - {x: 50, y: 50}
+    - name: dash_purple_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 49}
+        - {x: -20, y: 42}
+        - {x: -55, y: 20}
+        - {x: -55, y: -33}
+        - {x: -36, y: -63}
+        - {x: 48, y: -63}
+        - {x: 55, y: -46}
+        - {x: 55, y: 43}
+        - {x: 45, y: 49}
+    - name: dash_purple_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 48}
+        - {x: -15, y: 48}
+        - {x: -56, y: 14}
+        - {x: -56, y: -53}
+        - {x: -55, y: -57}
+        - {x: -33, y: -63}
+        - {x: 34, y: -63}
+        - {x: 53, y: -28}
+        - {x: 53, y: 10}
+        - {x: 29, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

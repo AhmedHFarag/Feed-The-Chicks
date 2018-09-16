@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &130200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 450900}
+  - 114: {fileID: 11496944}
+  - 114: {fileID: 11433478}
+  m_Layer: 0
+  m_Name: CrambsPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &450900
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11433478
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca34da0a67564fd498b26790e1ab18f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjectOrignalCrumb: {fileID: 101238, guid: 3ce5b44cd276f914d848b8cfa1c0905e,
+    type: 2}
+  pooledObjectSpecialCrumb: {fileID: 101238, guid: ee999c81e1fe89a4d83516cae55db194,
+    type: 2}
+  pooledAmountCrumb: 5
+  willGrow: 0
+--- !u!114 &11496944
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 091780b8b440e77448f98a5173da8fac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Left: {fileID: 460198, guid: 50eecfc1e7f949744bda0192e3003f6c, type: 2}
+  timeForGenerateCrumbs: 2
+  MaxCrambsNumber: 5
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: pooledobject
+      value: 
+      objectReference: {fileID: 101238, guid: abde3063e1a1f1945adf1be7e9d49768, type: 2}
+    - target: {fileID: 0}
+      propertyPath: pooledObjectOrignalCrumb
+      value: 
+      objectReference: {fileID: 101238, guid: 3ce5b44cd276f914d848b8cfa1c0905e, type: 2}
+    - target: {fileID: 0}
+      propertyPath: pooledObjectSpecialCrumb
+      value: 
+      objectReference: {fileID: 101238, guid: ee999c81e1fe89a4d83516cae55db194, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 130200}
+  m_IsPrefabParent: 1

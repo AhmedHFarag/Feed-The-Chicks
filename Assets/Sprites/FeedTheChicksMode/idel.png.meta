@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: e648172ad795e274d88095bf902e7df4
+timeCreated: 1460365002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idel_0
+    21300002: idel_1
+    21300004: idel_2
+    21300006: idel_3
+    21300008: idel_4
+    21300010: idel_5
+    21300012: idel_6
+    21300014: idel_7
+    21300016: idel_8
+    21300018: idel_9
+    21300020: idel_10
+    21300022: idel_11
+    21300024: idel_12
+    21300026: idel_13
+    21300028: idel_14
+    21300030: idel_15
+    21300032: idel_16
+    21300034: idel_17
+    21300036: idel_18
+    21300038: idel_19
+    21300040: idel_20
+    21300042: idel_21
+    21300044: idel_22
+    21300046: idel_23
+    21300048: idel_24
+    21300050: idel_25
+    21300052: idel_26
+    21300054: idel_27
+    21300056: idel_28
+    21300058: idel_29
+    21300060: idel_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 54.5}
+        - {x: -32, y: 54.5}
+        - {x: -60, y: 16.5}
+        - {x: -60, y: -27.5}
+        - {x: -43, y: -52.5}
+        - {x: 25, y: -52.5}
+        - {x: 60, y: -19.5}
+        - {x: 60, y: 6.5}
+        - {x: 39, y: 50.5}
+    - name: idel_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 54.5}
+        - {x: -61, y: 17.5}
+        - {x: -61, y: -30.5}
+        - {x: -47, y: -52.5}
+        - {x: 20, y: -52.5}
+        - {x: 60, y: -12.5}
+        - {x: 60, y: 6.5}
+        - {x: 30, y: 54.5}
+    - name: idel_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 54.5}
+        - {x: -61, y: 8.5}
+        - {x: -61, y: -28.5}
+        - {x: -56, y: -45.5}
+        - {x: -33, y: -52.5}
+        - {x: 20, y: -52.5}
+        - {x: 60, y: -8.5}
+        - {x: 60, y: 19.5}
+        - {x: 40, y: 54.5}
+    - name: idel_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 54.5}
+        - {x: -11, y: 54.5}
+        - {x: -17, y: 52.5}
+        - {x: -25, y: 44.5}
+        - {x: -62, y: -8.5}
+        - {x: -62, y: -36.5}
+        - {x: -29, y: -53.5}
+        - {x: 14, y: -53.5}
+        - {x: 60, y: -8.5}
+        - {x: 60, y: 11.5}
+        - {x: 22, y: 43.5}
+    - name: idel_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 53.5}
+        - {x: -22, y: 53.5}
+        - {x: -62, y: -1.5}
+        - {x: -62, y: -43.5}
+        - {x: -40, y: -53.5}
+        - {x: 37, y: -53.5}
+        - {x: 60, y: -28.5}
+        - {x: 60, y: 2.5}
+        - {x: 25, y: 50.5}
+    - name: idel_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 545
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 53.5}
+        - {x: -17, y: 53.5}
+        - {x: -25, y: 50.5}
+        - {x: -62, y: 9.5}
+        - {x: -62, y: -32.5}
+        - {x: -50, y: -53.5}
+        - {x: 7, y: -53.5}
+        - {x: 26, y: -38.5}
+        - {x: 61, y: -10.5}
+        - {x: 61, y: 8.5}
+    - name: idel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 53.5}
+        - {x: -63, y: 2.5}
+        - {x: -63, y: -53.5}
+        - {x: 36, y: -53.5}
+        - {x: 61, y: -26.5}
+        - {x: 61, y: 53.5}
+    - name: idel_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 52.5}
+        - {x: -30, y: 46.5}
+        - {x: -63, y: 12.5}
+        - {x: -63, y: -35.5}
+        - {x: -53, y: -53.5}
+        - {x: 29, y: -53.5}
+        - {x: 61, y: -19.5}
+        - {x: 61, y: 25.5}
+        - {x: 20, y: 52.5}
+    - name: idel_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 52.5}
+        - {x: -63, y: -4.5}
+        - {x: -63, y: -52.5}
+        - {x: -52, y: -54.5}
+        - {x: 27, y: -54.5}
+        - {x: 61, y: -9.5}
+        - {x: 61, y: 15.5}
+        - {x: 43, y: 52.5}
+    - name: idel_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 51.5}
+        - {x: -25, y: 51.5}
+        - {x: -63, y: 2.5}
+        - {x: -63, y: -30.5}
+        - {x: -56, y: -45.5}
+        - {x: -33, y: -54.5}
+        - {x: 13, y: -54.5}
+        - {x: 61, y: -21.5}
+        - {x: 61, y: 10.5}
+        - {x: 28, y: 49.5}
+    - name: idel_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 51.5}
+        - {x: -27, y: 46.5}
+        - {x: -63, y: -6.5}
+        - {x: -63, y: -33.5}
+        - {x: -34, y: -54.5}
+        - {x: 24, y: -54.5}
+        - {x: 61, y: -22.5}
+        - {x: 61, y: 13.5}
+        - {x: 21, y: 51.5}
+    - name: idel_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 436
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 51.5}
+        - {x: -21, y: 51.5}
+        - {x: -63, y: 8.5}
+        - {x: -63, y: -50.5}
+        - {x: -61, y: -54.5}
+        - {x: 20, y: -54.5}
+        - {x: 45, y: -45.5}
+        - {x: 62, y: -10.5}
+        - {x: 62, y: 1.5}
+        - {x: 29, y: 35.5}
+    - name: idel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 50.5}
+        - {x: -20, y: 50.5}
+        - {x: -42, y: 22.5}
+        - {x: -63, y: -11.5}
+        - {x: -63, y: -33.5}
+        - {x: -34, y: -54.5}
+        - {x: 17, y: -54.5}
+        - {x: 62, y: -11.5}
+        - {x: 62, y: 6.5}
+        - {x: 23, y: 41.5}
+    - name: idel_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 50.5}
+        - {x: -63, y: 12.5}
+        - {x: -63, y: -40.5}
+        - {x: -54, y: -54.5}
+        - {x: 55, y: -54.5}
+        - {x: 62, y: -29.5}
+        - {x: 62, y: 26.5}
+        - {x: 28, y: 50.5}
+    - name: idel_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 49.5}
+        - {x: -25, y: 49.5}
+        - {x: -63, y: 0.5}
+        - {x: -63, y: -47.5}
+        - {x: -43, y: -54.5}
+        - {x: 34, y: -54.5}
+        - {x: 62, y: -28.5}
+        - {x: 62, y: 16.5}
+        - {x: 42, y: 48.5}
+    - name: idel_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 49.5}
+        - {x: -21, y: 49.5}
+        - {x: -63, y: 0.5}
+        - {x: -63, y: -36.5}
+        - {x: -42, y: -54.5}
+        - {x: 22, y: -54.5}
+        - {x: 45, y: -47.5}
+        - {x: 62, y: -14.5}
+        - {x: 62, y: 0.5}
+        - {x: 22, y: 39.5}
+    - name: idel_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 49.5}
+        - {x: -37, y: 49.5}
+        - {x: -63, y: -7.5}
+        - {x: -63, y: -44.5}
+        - {x: -38, y: -53.5}
+        - {x: -31, y: -54.5}
+        - {x: 17, y: -54.5}
+        - {x: 62, y: -24.5}
+        - {x: 62, y: 12.5}
+        - {x: 39, y: 46.5}
+    - name: idel_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 327
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 50.5}
+        - {x: -63, y: -5.5}
+        - {x: -63, y: -54.5}
+        - {x: 36, y: -54.5}
+        - {x: 62, y: -45.5}
+        - {x: 62, y: 11.5}
+        - {x: 6, y: 50.5}
+    - name: idel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 50.5}
+        - {x: -21, y: 50.5}
+        - {x: -63, y: 1.5}
+        - {x: -63, y: -27.5}
+        - {x: -61, y: -34.5}
+        - {x: -52, y: -41.5}
+        - {x: -46, y: -54.5}
+        - {x: 33, y: -54.5}
+        - {x: 62, y: -41.5}
+        - {x: 62, y: 5.5}
+        - {x: 26, y: 43.5}
+    - name: idel_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 51.5}
+        - {x: -62, y: 6.5}
+        - {x: -62, y: -39.5}
+        - {x: -58, y: -49.5}
+        - {x: -38, y: -54.5}
+        - {x: 17, y: -54.5}
+        - {x: 62, y: -9.5}
+        - {x: 62, y: 6.5}
+        - {x: 25, y: 51.5}
+    - name: idel_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 51.5}
+        - {x: -24, y: 51.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -53.5}
+        - {x: -57, y: -54.5}
+        - {x: 24, y: -54.5}
+        - {x: 61, y: -21.5}
+        - {x: 61, y: 5.5}
+        - {x: 28, y: 47.5}
+    - name: idel_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 51.5}
+        - {x: -62, y: 22.5}
+        - {x: -62, y: -44.5}
+        - {x: -33, y: -54.5}
+        - {x: 29, y: -54.5}
+        - {x: 61, y: -21.5}
+        - {x: 61, y: 8.5}
+        - {x: 29, y: 51.5}
+    - name: idel_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 40.5}
+        - {x: 5, y: 52.5}
+        - {x: -30, y: 52.5}
+        - {x: -62, y: -4.5}
+        - {x: -62, y: -43.5}
+        - {x: -36, y: -54.5}
+        - {x: 23, y: -54.5}
+        - {x: 40, y: -35.5}
+        - {x: 61, y: -7.5}
+        - {x: 61, y: 8.5}
+    - name: idel_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 218
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 52.5}
+        - {x: -14, y: 52.5}
+        - {x: -30, y: 46.5}
+        - {x: -61, y: 7.5}
+        - {x: -61, y: -33.5}
+        - {x: -45, y: -54.5}
+        - {x: 10, y: -54.5}
+        - {x: 37, y: -48.5}
+        - {x: 61, y: -13.5}
+        - {x: 61, y: 16.5}
+    - name: idel_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 53.5}
+        - {x: -28, y: 53.5}
+        - {x: -61, y: -4.5}
+        - {x: -61, y: -43.5}
+        - {x: -36, y: -54.5}
+        - {x: 29, y: -54.5}
+        - {x: 61, y: -9.5}
+        - {x: 61, y: 7.5}
+        - {x: 36, y: 43.5}
+    - name: idel_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 53.5}
+        - {x: -23, y: 53.5}
+        - {x: -61, y: 4.5}
+        - {x: -61, y: -40.5}
+        - {x: -33, y: -53.5}
+        - {x: 29, y: -53.5}
+        - {x: 61, y: -17.5}
+        - {x: 61, y: 5.5}
+        - {x: 23, y: 43.5}
+    - name: idel_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 53.5}
+        - {x: -23, y: 53.5}
+        - {x: -61, y: 2.5}
+        - {x: -61, y: -30.5}
+        - {x: -56, y: -45.5}
+        - {x: -36, y: -53.5}
+        - {x: 27, y: -53.5}
+        - {x: 60, y: -24.5}
+        - {x: 60, y: 2.5}
+        - {x: 25, y: 50.5}
+    - name: idel_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 54.5}
+        - {x: -21, y: 54.5}
+        - {x: -61, y: -10.5}
+        - {x: -61, y: -30.5}
+        - {x: -32, y: -53.5}
+        - {x: 13, y: -53.5}
+        - {x: 60, y: -9.5}
+        - {x: 60, y: 11.5}
+        - {x: 8, y: 52.5}
+    - name: idel_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 47.5}
+        - {x: 14, y: 54.5}
+        - {x: -25, y: 54.5}
+        - {x: -60, y: 2.5}
+        - {x: -60, y: -43.5}
+        - {x: -35, y: -53.5}
+        - {x: 25, y: -53.5}
+        - {x: 59, y: -6.5}
+        - {x: 60, y: -3.5}
+        - {x: 60, y: 3.5}
+    - name: idel_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 109
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 54.5}
+        - {x: -60, y: 15.5}
+        - {x: -60, y: -33.5}
+        - {x: -54, y: -43.5}
+        - {x: -23, y: -52.5}
+        - {x: 22, y: -52.5}
+        - {x: 60, y: -21.5}
+        - {x: 60, y: 18.5}
+        - {x: 35, y: 54.5}
+    - name: idel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 54.5}
+        - {x: -32, y: 54.5}
+        - {x: -60, y: 16.5}
+        - {x: -60, y: -27.5}
+        - {x: -43, y: -52.5}
+        - {x: 25, y: -52.5}
+        - {x: 60, y: -19.5}
+        - {x: 60, y: 6.5}
+        - {x: 39, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

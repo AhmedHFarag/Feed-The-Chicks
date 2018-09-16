@@ -1,0 +1,156 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.SceneManagement;
+using System;
+using Custom;
+
+public class btnPlay : MonoBehaviour
+{
+    public Image[] playerImages;
+
+    public GameObject playerList;
+    public List<int> playerAvatar;
+
+    /* 20/4/2016 added code */
+    public GameObject InputManager;
+    int ProceedCount = 0;
+    void Start()
+    {
+        InputManager.GetComponent<InputManagerScript>().P1_START_Initiated += this.Accept;
+        InputManager.GetComponent<InputManagerScript>().P2_START_Initiated += this.Accept;
+        InputManager.GetComponent<InputManagerScript>().P3_START_Initiated += this.Accept;
+        InputManager.GetComponent<InputManagerScript>().P4_START_Initiated += this.Accept;
+
+        InputManager.GetComponent<InputManagerScript>().P1jumpInitiated += this.PlayerChosen;
+        InputManager.GetComponent<InputManagerScript>().P2jumpInitiated += this.PlayerChosen;
+        InputManager.GetComponent<InputManagerScript>().P3jumpInitiated += this.PlayerChosen;
+        InputManager.GetComponent<InputManagerScript>().P4jumpInitiated += this.PlayerChosen;
+    }
+    public void Accept(object sender, EventArgs e)
+    {
+        if (ProceedCount > 1)
+        {
+            Debug.Log("Accept working");
+            OnClick();
+        }
+        else
+        {
+            Debug.Log("Accept not working");
+        }
+    }
+
+    public void PlayerChosen(object sender, MovementEventArgs e)
+    {
+        ProceedCount++;
+        switch (e.JoyStickID)
+        {
+            case 1:
+                InputManager.GetComponent<InputManagerScript>().P1jumpInitiated -= this.PlayerChosen;
+                //InputManager.GetComponent<InputManagerScript>().P1_O_Initiated += this.PlayerUnSelected;
+                break;
+            case 2:
+                InputManager.GetComponent<InputManagerScript>().P2jumpInitiated -= this.PlayerChosen;
+                //InputManager.GetComponent<InputManagerScript>().P2_O_Initiated += this.PlayerUnSelected;
+                break;
+            case 3:
+                InputManager.GetComponent<InputManagerScript>().P3jumpInitiated -= this.PlayerChosen;
+                //InputManager.GetComponent<InputManagerScript>().P3_O_Initiated += this.PlayerUnSelected;
+                break;
+            case 4:
+                InputManager.GetComponent<InputManagerScript>().P4jumpInitiated -= this.PlayerChosen;
+                //InputManager.GetComponent<InputManagerScript>().P4_O_Initiated += this.PlayerUnSelected;
+                break;
+            default:
+                break;
+        }
+    }
+
+    public void PlayerUnSelected(object sender, MovementEventArgs e)
+    {
+        ProceedCount--;
+        switch (e.JoyStickID)
+        {
+            case 1:
+                InputManager.GetComponent<InputManagerScript>().P1jumpInitiated += this.PlayerChosen;
+                InputManager.GetComponent<InputManagerScript>().P1_O_Initiated -= this.PlayerUnSelected;
+                break;
+            case 2:
+                InputManager.GetComponent<InputManagerScript>().P2jumpInitiated += this.PlayerChosen;
+                InputManager.GetComponent<InputManagerScript>().P2_O_Initiated -= this.PlayerUnSelected;
+                break;
+            case 3:
+                InputManager.GetComponent<InputManagerScript>().P3jumpInitiated += this.PlayerChosen;
+                InputManager.GetComponent<InputManagerScript>().P3_O_Initiated -= this.PlayerUnSelected;
+                break;
+            case 4:
+                InputManager.GetComponent<InputManagerScript>().P4jumpInitiated += this.PlayerChosen;
+                InputManager.GetComponent<InputManagerScript>().P4_O_Initiated -= this.PlayerUnSelected;
+                break;
+            default:
+                break;
+        }
+    }
+    /* 20/4/2016 end of added code */
+    public void OnClick()
+    {
+        for (int i = 0; i < playerImages.Length; i++)
+        {
+            //Animator
+            string[] avatarName = playerImages[i].sprite.name.Split('_');
+            //switch (playerImages[i].sprite.name)
+            switch (avatarName[0])
+            {
+                //case "Red_idel_0":
+                case "Red":
+                    playerAvatar.Add(0);
+                    break;
+                //case "Blue_idel_0":
+                case "Blue":
+                    playerAvatar.Add(1);
+                    break;
+                //case "Purpul_idel_0":
+                case "Purpul":
+                    playerAvatar.Add(2);
+                    break;
+                //case "Green_idel_0":
+                case "Green":
+                    playerAvatar.Add(3);
+                    break;
+            }
+        }
+
+        playerList.GetComponent<playersList>().PlayerList = GameManager.Current.players;
+        playerList.GetComponent<playersList>().AvatarList = playerAvatar;
+
+        St();
+
+
+    }
+
+    void St()
+    {
+        //    //yield return new WaitForSeconds(1);
+        //    Scene SceneToCheck = SceneManager.GetSceneByName("FeedTheChicksMode");
+        //    if (!SceneToCheck.isLoaded)
+        //    {
+        //        SceneManager.LoadSceneAsync("FeedTheChicksMode", LoadSceneMode.Single);
+        //        //StartCoroutine(MoveObject());
+        //    }
+
+        playersList.current.gameStates = GameStates.TutorialState;
+        playersList.current.SwitchGame();// = GameStates.TutorialState;
+
+    }
+    IEnumerator MoveObject()
+    {
+        Scene SceneToCheck = SceneManager.GetSceneByName("FeedTheChicksMode");
+        while (!SceneToCheck.IsValid())
+        {
+            yield return null;
+        }
+        SceneManager.MoveGameObjectToScene(playerList, SceneToCheck);
+        //CameraBehaviour.GetCameraBehaviour().ResizeCamer (new Vector3(5,5,0),10);
+    }
+}

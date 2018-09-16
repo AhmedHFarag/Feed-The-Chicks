@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c18204e3ad7ef641ae9bed9ff7a3202
+timeCreated: 1457347992
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myCamera: {instanceID: 0}
+  - backgroundTexture: {fileID: 2800000, guid: f65b627aa8b42dd409baf631f197a773, type: 3}
+  - foregroundTexture: {fileID: 2800000, guid: bbb6c148246686f46bfb055182f5ae43, type: 3}
+  executionOrder: 20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

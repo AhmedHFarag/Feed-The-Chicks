@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: f42fa8ad411f30f49bd49f2e94cd085c
+timeCreated: 1460042267
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CH_Selwet_0
+    21300002: CH_Selwet_1
+    21300004: CH_Selwet_2
+    21300006: CH_Selwet_3
+    21300008: CH_Selwet_4
+    21300010: CH_Selwet_5
+    21300012: CH_Selwet_6
+    21300014: CH_Selwet_7
+    21300016: CH_Selwet_8
+    21300018: CH_Selwet_9
+    21300020: CH_Selwet_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 350
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CH_Selwet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1376
+        width: 732
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.667835, y: 26.498833}
+        - {x: -6.332165, y: 26.498833}
+        - {x: -11.332165, y: 24.498833}
+        - {x: -27.332165, y: 3.4988327}
+        - {x: -27.332165, y: -17.501167}
+        - {x: -25.332165, y: -23.501167}
+        - {x: -21.332165, y: -24.501167}
+        - {x: 9.667835, y: -24.501167}
+        - {x: 28.667835, y: -2.5011673}
+        - {x: 28.667835, y: 7.4988327}
+        - {x: 11.667835, y: 21.498833}
+    - name: CH_Selwet_1
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1376
+        width: 732
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.667839, y: 25.998833}
+        - {x: -5.332161, y: 25.998833}
+        - {x: -10.332161, y: 23.998833}
+        - {x: -27.33216, y: 2.9988327}
+        - {x: -27.33216, y: -13.001167}
+        - {x: -23.33216, y: -21.001167}
+        - {x: -13.332161, y: -24.001167}
+        - {x: 10.667839, y: -24.001167}
+        - {x: 28.66784, y: -5.0011673}
+        - {x: 28.66784, y: 3.9988327}
+    - name: CH_Selwet_2
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1376
+        width: 733
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3321686, y: 25.498833}
+        - {x: -11.332169, y: 24.498833}
+        - {x: -27.332169, y: 5.4988327}
+        - {x: -27.332169, y: -18.501167}
+        - {x: -25.332169, y: -23.501167}
+        - {x: 21.667831, y: -23.501167}
+        - {x: 28.667831, y: -7.5011673}
+        - {x: 28.667831, y: 8.498833}
+        - {x: 5.6678314, y: 25.498833}
+    - name: CH_Selwet_3
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1376
+        width: 734
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.407013, y: 24.998833}
+        - {x: -27.407013, y: -1.0011673}
+        - {x: -27.407013, y: -18.001167}
+        - {x: -20.407013, y: -23.001167}
+        - {x: 9.592987, y: -23.001167}
+        - {x: 28.592987, y: -9.001167}
+        - {x: 28.592987, y: 6.9988327}
+        - {x: 9.592987, y: 24.998833}
+    - name: CH_Selwet_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 690
+        width: 736
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4070168, y: 24.14912}
+        - {x: -11.407017, y: 23.14912}
+        - {x: -27.407017, y: 3.1491203}
+        - {x: -27.407017, y: -12.85088}
+        - {x: -24.407017, y: -18.85088}
+        - {x: -20.407017, y: -22.85088}
+        - {x: 12.592983, y: -22.85088}
+        - {x: 28.592983, y: -1.8508797}
+        - {x: 28.592983, y: 5.1491203}
+        - {x: 2.5929832, y: 24.14912}
+    - name: CH_Selwet_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 690
+        width: 737
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.518127, y: 23.64912}
+        - {x: -8.481873, y: 23.64912}
+        - {x: -27.481873, y: 5.6491203}
+        - {x: -27.481873, y: -16.35088}
+        - {x: -16.481873, y: -22.35088}
+        - {x: 7.5181274, y: -22.35088}
+        - {x: 28.518127, y: -6.3508797}
+        - {x: 28.518127, y: 4.6491203}
+        - {x: 25.518127, y: 11.64912}
+    - name: CH_Selwet_6
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 690
+        width: 736
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.407013, y: 24.14912}
+        - {x: -11.407013, y: 23.14912}
+        - {x: -27.407013, y: 3.1491203}
+        - {x: -27.407013, y: -12.85088}
+        - {x: -24.407013, y: -18.85088}
+        - {x: -20.407013, y: -22.85088}
+        - {x: 12.592987, y: -22.85088}
+        - {x: 28.592987, y: -1.8508797}
+        - {x: 28.592987, y: 5.1491203}
+        - {x: 2.592987, y: 24.14912}
+    - name: CH_Selwet_7
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 690
+        width: 734
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.407013, y: 24.64912}
+        - {x: -27.407013, y: -0.35087967}
+        - {x: -27.407013, y: -19.35088}
+        - {x: -21.407013, y: -23.35088}
+        - {x: 10.592987, y: -23.35088}
+        - {x: 19.592987, y: -20.35088}
+        - {x: 28.592987, y: -6.3508797}
+        - {x: 28.592987, y: 6.6491203}
+        - {x: 5.592987, y: 24.64912}
+    - name: CH_Selwet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 733
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.667835, y: 24.449123}
+        - {x: -16.332165, y: 24.449123}
+        - {x: -27.332165, y: 0.44912338}
+        - {x: -27.332165, y: -17.550877}
+        - {x: -16.332165, y: -23.550877}
+        - {x: 7.667835, y: -23.550877}
+        - {x: 16.667835, y: -17.550877}
+        - {x: 28.667835, y: -2.5508766}
+        - {x: 28.667835, y: 5.4491234}
+    - name: CH_Selwet_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 6
+        width: 732
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.667839, y: 24.949123}
+        - {x: -9.332161, y: 24.949123}
+        - {x: -27.33216, y: 8.949123}
+        - {x: -27.33216, y: -24.050877}
+        - {x: 15.667839, y: -24.050877}
+        - {x: 20.66784, y: -21.050877}
+        - {x: 28.66784, y: -2.0508766}
+        - {x: 28.66784, y: 10.949123}
+    - name: CH_Selwet_10
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 6
+        width: 732
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.667831, y: 25.449123}
+        - {x: -18.332169, y: 25.449123}
+        - {x: -27.332169, y: 5.4491234}
+        - {x: -27.332169, y: -24.550877}
+        - {x: 26.667831, y: -24.550877}
+        - {x: 28.667831, y: -14.550877}
+        - {x: 28.667831, y: 2.4491234}
+        - {x: 27.667831, y: 4.4491234}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

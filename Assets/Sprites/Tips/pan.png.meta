@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 18837b75a67671746a4b1e89a328b4c9
+timeCreated: 1465389320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pan_0
+    21300002: pan_1
+    21300004: pan_2
+    21300006: pan_3
+    21300008: pan_4
+    21300010: pan_5
+    21300012: pan_6
+    21300014: pan_7
+    21300016: pan_8
+    21300018: pan_9
+    21300020: pan_10
+    21300022: pan_11
+    21300024: pan_12
+    21300026: pan_13
+    21300028: pan_14
+    21300030: pan_15
+    21300032: pan_16
+    21300034: pan_17
+    21300036: pan_18
+    21300038: pan_19
+    21300040: pan_20
+    21300042: pan_21
+    21300044: pan_22
+    21300046: pan_23
+    21300048: pan_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 115}
+        - {x: -205, y: -115}
+        - {x: 205, y: -115}
+        - {x: 205, y: 115}
+    - name: pan_1
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2408
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.93188, y: 115}
+        - {x: -204.93188, y: -115}
+        - {x: 206.06812, y: -115}
+        - {x: 206.06812, y: 115}
+    - name: pan_2
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2408
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.86377, y: 115}
+        - {x: -204.86377, y: -115}
+        - {x: 205.13623, y: -115}
+        - {x: 205.13623, y: 115}
+    - name: pan_3
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2408
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.79565, y: 115}
+        - {x: -204.79565, y: -115}
+        - {x: 206.20435, y: -115}
+        - {x: 206.20435, y: 115}
+    - name: pan_4
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 2408
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.72754, y: 115}
+        - {x: -204.72754, y: -115}
+        - {x: 205.27246, y: -115}
+        - {x: 205.27246, y: 115}
+    - name: pan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 115}
+        - {x: -205, y: -115}
+        - {x: 205, y: -115}
+        - {x: 205, y: 115}
+    - name: pan_6
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1806
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.93188, y: 115}
+        - {x: -204.93188, y: -115}
+        - {x: 206.06812, y: -115}
+        - {x: 206.06812, y: 115}
+    - name: pan_7
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1806
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.86377, y: 115}
+        - {x: -204.86377, y: -115}
+        - {x: 205.13623, y: -115}
+        - {x: 205.13623, y: 115}
+    - name: pan_8
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1806
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.79565, y: 115}
+        - {x: -204.79565, y: -115}
+        - {x: 206.20435, y: -115}
+        - {x: 206.20435, y: 115}
+    - name: pan_9
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1806
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.72754, y: 115}
+        - {x: -204.72754, y: -115}
+        - {x: 205.27246, y: -115}
+        - {x: 205.27246, y: 115}
+    - name: pan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 115}
+        - {x: -205, y: -115}
+        - {x: 205, y: -115}
+        - {x: 205, y: 115}
+    - name: pan_11
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1204
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.93188, y: 115}
+        - {x: -204.93188, y: -115}
+        - {x: 206.06812, y: -115}
+        - {x: 206.06812, y: 115}
+    - name: pan_12
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1204
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.86377, y: 115}
+        - {x: -204.86377, y: -115}
+        - {x: 205.13623, y: -115}
+        - {x: 205.13623, y: 115}
+    - name: pan_13
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1204
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.79565, y: 115}
+        - {x: -204.79565, y: -115}
+        - {x: 206.20435, y: -115}
+        - {x: 206.20435, y: 115}
+    - name: pan_14
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1204
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.72754, y: 115}
+        - {x: -204.72754, y: -115}
+        - {x: 205.27246, y: -115}
+        - {x: 205.27246, y: 115}
+    - name: pan_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 115}
+        - {x: -205, y: -115}
+        - {x: 205, y: -115}
+        - {x: 205, y: 115}
+    - name: pan_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 602
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.93188, y: 115}
+        - {x: -204.93188, y: -115}
+        - {x: 206.06812, y: -115}
+        - {x: 206.06812, y: 115}
+    - name: pan_17
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 602
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.86377, y: 115}
+        - {x: -204.86377, y: -115}
+        - {x: 205.13623, y: -115}
+        - {x: 205.13623, y: 115}
+    - name: pan_18
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 602
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.79565, y: 115}
+        - {x: -204.79565, y: -115}
+        - {x: 206.20435, y: -115}
+        - {x: 206.20435, y: 115}
+    - name: pan_19
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 602
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.72754, y: 115}
+        - {x: -204.72754, y: -115}
+        - {x: 205.27246, y: -115}
+        - {x: 205.27246, y: 115}
+    - name: pan_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 115}
+        - {x: -205, y: -115}
+        - {x: 205, y: -115}
+        - {x: 205, y: 115}
+    - name: pan_21
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.93188, y: 115}
+        - {x: -204.93188, y: -115}
+        - {x: 206.06812, y: -115}
+        - {x: 206.06812, y: 115}
+    - name: pan_22
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 0
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.86377, y: 115}
+        - {x: -204.86377, y: -115}
+        - {x: 205.13623, y: -115}
+        - {x: 205.13623, y: 115}
+    - name: pan_23
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 0
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.79565, y: 115}
+        - {x: -204.79565, y: -115}
+        - {x: 206.20435, y: -115}
+        - {x: 206.20435, y: 115}
+    - name: pan_24
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 0
+        width: 1072
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -201.72754, y: -115}
+        - {x: -201.72754, y: 115}
+        - {x: -204.72754, y: 115}
+        - {x: -204.72754, y: -115}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

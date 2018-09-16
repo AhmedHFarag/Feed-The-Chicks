@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 493009db778e3a44db46ee8b4ec1dae6
+timeCreated: 1460707192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jum_0
+    21300002: jum_1
+    21300004: jum_2
+    21300006: jum_3
+    21300008: jum_4
+    21300010: jum_5
+    21300012: jum_6
+    21300014: jum_7
+    21300016: jum_8
+    21300018: jum_9
+    21300020: jum_10
+    21300022: jum_11
+    21300024: jum_12
+    21300026: jum_13
+    21300028: jum_14
+    21300030: jum_15
+    21300032: jum_16
+    21300034: jum_17
+    21300036: jum_18
+    21300038: jum_19
+    21300040: jum_20
+    21300042: jum_21
+    21300044: jum_22
+    21300046: jum_23
+    21300048: jum_24
+    21300050: jum_25
+    21300052: jum_26
+    21300054: jum_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 170
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 24}
+        - {x: -96, y: -64}
+        - {x: -48, y: -81}
+        - {x: 31, y: -81}
+        - {x: 76, y: -43}
+        - {x: 76, y: -26}
+        - {x: 44, y: 24}
+    - name: jum_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 22}
+        - {x: -73, y: 22}
+        - {x: -97, y: 0}
+        - {x: -97, y: -58}
+        - {x: -43, y: -82}
+        - {x: 22, y: -82}
+        - {x: 77, y: -40}
+        - {x: 77, y: -32}
+        - {x: 72, y: -24}
+    - name: jum_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 21}
+        - {x: -88, y: 21}
+        - {x: -97, y: 14}
+        - {x: -97, y: -60}
+        - {x: -95, y: -64}
+        - {x: -40, y: -81}
+        - {x: 1, y: -81}
+        - {x: 77, y: -40}
+        - {x: 79, y: -37}
+        - {x: 79, y: -25}
+    - name: jum_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 21}
+        - {x: 36, y: 21}
+        - {x: 32, y: 20}
+        - {x: 31, y: 21}
+        - {x: -98, y: 21}
+        - {x: -98, y: -58}
+        - {x: -56, y: -77}
+        - {x: -38, y: -80}
+        - {x: 6, y: -80}
+        - {x: 80, y: -45}
+        - {x: 80, y: -27}
+        - {x: 52, y: 17}
+    - name: jum_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 20}
+        - {x: -98, y: -25}
+        - {x: -98, y: -57}
+        - {x: -41, y: -80}
+        - {x: 30, y: -80}
+        - {x: 82, y: -54}
+        - {x: 82, y: -19}
+        - {x: 62, y: 20}
+    - name: jum_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 736
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 20}
+        - {x: -75, y: 0}
+        - {x: -72, y: -1}
+        - {x: -87, y: -11}
+        - {x: -90, y: -15}
+        - {x: -92, y: -19}
+        - {x: -99, y: -32}
+        - {x: -99, y: -48}
+        - {x: -53, y: -75}
+        - {x: -35, y: -79}
+        - {x: 5, y: -79}
+        - {x: 83, y: -42}
+        - {x: 83, y: 14}
+        - {x: 63, y: 20}
+    - name: jum_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 20}
+        - {x: -74, y: 17}
+        - {x: -76, y: 0}
+        - {x: -91, y: -7}
+        - {x: -99, y: -28}
+        - {x: -99, y: -48}
+        - {x: -36, y: -79}
+        - {x: 5, y: -79}
+        - {x: 85, y: -47}
+        - {x: 85, y: -26}
+        - {x: 44, y: 20}
+    - name: jum_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 19}
+        - {x: -74, y: 13}
+        - {x: -75, y: -1}
+        - {x: -73, y: -3}
+        - {x: -87, y: -11}
+        - {x: -92, y: -16}
+        - {x: -100, y: -33}
+        - {x: -100, y: -46}
+        - {x: -54, y: -78}
+        - {x: 5, y: -78}
+        - {x: 87, y: -54}
+        - {x: 87, y: -30}
+        - {x: 51, y: 19}
+    - name: jum_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 17}
+        - {x: -102, y: -11}
+        - {x: -102, y: -46}
+        - {x: -70, y: -77}
+        - {x: 19, y: -77}
+        - {x: 89, y: -57}
+        - {x: 89, y: -34}
+        - {x: 48, y: 17}
+    - name: jum_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -4}
+        - {x: -90, y: -10}
+        - {x: -104, y: -22}
+        - {x: -104, y: -47}
+        - {x: -74, y: -76}
+        - {x: 49, y: -76}
+        - {x: 92, y: -64}
+        - {x: 92, y: -28}
+        - {x: 66, y: 16}
+        - {x: -92, y: 16}
+        - {x: -78, y: -3}
+    - name: jum_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: -51}
+        - {x: -45, y: -76}
+        - {x: 14, y: -76}
+        - {x: 95, y: -44}
+        - {x: 95, y: -31}
+        - {x: 67, y: 13}
+        - {x: 60, y: 14}
+        - {x: -86, y: 14}
+        - {x: -106, y: -28}
+    - name: jum_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 552
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 22}
+        - {x: -102, y: -7}
+        - {x: -102, y: -58}
+        - {x: -61, y: -75}
+        - {x: 47, y: -75}
+        - {x: 89, y: -48}
+        - {x: 89, y: -27}
+        - {x: 50, y: 22}
+    - name: jum_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 31}
+        - {x: -98, y: 17}
+        - {x: -98, y: -55}
+        - {x: -38, y: -75}
+        - {x: 20, y: -75}
+        - {x: 83, y: -44}
+        - {x: 83, y: -14}
+        - {x: 51, y: 31}
+    - name: jum_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 39}
+        - {x: -76, y: 16}
+        - {x: -62, y: 0}
+        - {x: -61, y: -1}
+        - {x: -60, y: -6}
+        - {x: -60, y: -4}
+        - {x: -64, y: -1}
+        - {x: -67, y: 2}
+        - {x: -72, y: 4}
+        - {x: -77, y: 7}
+        - {x: -85, y: 3}
+        - {x: -94, y: -14}
+        - {x: -94, y: -54}
+        - {x: -40, y: -74}
+        - {x: 10, y: -74}
+        - {x: 77, y: -36}
+        - {x: 77, y: -5}
+        - {x: 59, y: 39}
+    - name: jum_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 50}
+        - {x: -91, y: 16}
+        - {x: -91, y: -48}
+        - {x: -62, y: -71}
+        - {x: 6, y: -71}
+        - {x: 72, y: -36}
+        - {x: 72, y: -7}
+        - {x: 37, y: 50}
+    - name: jum_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 34}
+        - {x: -59, y: 18}
+        - {x: -58, y: 17}
+        - {x: -58, y: 14}
+        - {x: -64, y: 22}
+        - {x: -77, y: 26}
+        - {x: -88, y: 2}
+        - {x: -88, y: -36}
+        - {x: -38, y: -67}
+        - {x: 5, y: -67}
+        - {x: 67, y: -27}
+        - {x: 67, y: 46}
+        - {x: 47, y: 62}
+        - {x: -61, y: 62}
+        - {x: -68, y: 51}
+    - name: jum_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 74}
+        - {x: -65, y: 65}
+        - {x: -66, y: 47}
+        - {x: -57, y: 27}
+        - {x: -56, y: 26}
+        - {x: -56, y: 23}
+        - {x: -62, y: 31}
+        - {x: -74, y: 37}
+        - {x: -85, y: 16}
+        - {x: -85, y: -22}
+        - {x: -42, y: -62}
+        - {x: -7, y: -62}
+        - {x: -6, y: -61}
+        - {x: 63, y: -11}
+        - {x: 63, y: 11}
+        - {x: 35, y: 74}
+    - name: jum_17
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 368
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 80}
+        - {x: -83, y: 37}
+        - {x: -83, y: -28}
+        - {x: -57, y: -52}
+        - {x: -37, y: -60}
+        - {x: 2, y: -60}
+        - {x: 60, y: -17}
+        - {x: 60, y: 34}
+        - {x: 43, y: 80}
+    - name: jum_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 74}
+        - {x: -80, y: 36}
+        - {x: -84, y: 24}
+        - {x: -84, y: -22}
+        - {x: -38, y: -61}
+        - {x: -9, y: -61}
+        - {x: -4, y: -60}
+        - {x: 60, y: -11}
+        - {x: 60, y: 18}
+        - {x: 36, y: 74}
+    - name: jum_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 68}
+        - {x: -80, y: 33}
+        - {x: -84, y: 11}
+        - {x: -84, y: -23}
+        - {x: -59, y: -59}
+        - {x: -44, y: -63}
+        - {x: 6, y: -63}
+        - {x: 61, y: -14}
+        - {x: 61, y: 10}
+        - {x: 36, y: 68}
+    - name: jum_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 62}
+        - {x: -69, y: 62}
+        - {x: -85, y: 25}
+        - {x: -85, y: -37}
+        - {x: -44, y: -65}
+        - {x: -3, y: -65}
+        - {x: 62, y: -15}
+        - {x: 62, y: -3}
+        - {x: 58, y: 8}
+    - name: jum_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 56}
+        - {x: -66, y: 56}
+        - {x: -87, y: -13}
+        - {x: -87, y: -27}
+        - {x: -45, y: -67}
+        - {x: -7, y: -67}
+        - {x: 11, y: -60}
+        - {x: 64, y: -24}
+        - {x: 64, y: 10}
+        - {x: 43, y: 52}
+    - name: jum_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 50}
+        - {x: -88, y: 24}
+        - {x: -88, y: -44}
+        - {x: -87, y: -49}
+        - {x: -43, y: -70}
+        - {x: 11, y: -70}
+        - {x: 66, y: -20}
+        - {x: 66, y: 3}
+        - {x: 35, y: 50}
+    - name: jum_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 184
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 44}
+        - {x: -74, y: 34}
+        - {x: -69, y: 21}
+        - {x: -68, y: 18}
+        - {x: -84, y: 3}
+        - {x: -90, y: -7}
+        - {x: -90, y: -46}
+        - {x: -38, y: -73}
+        - {x: 27, y: -73}
+        - {x: 68, y: -27}
+        - {x: 68, y: 1}
+        - {x: 33, y: 44}
+    - name: jum_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 38}
+        - {x: -71, y: 38}
+        - {x: -92, y: -9}
+        - {x: -92, y: -68}
+        - {x: -58, y: -75}
+        - {x: 31, y: -75}
+        - {x: 70, y: -38}
+        - {x: 70, y: -13}
+        - {x: 42, y: 32}
+    - name: jum_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -89, y: 31}
+        - {x: -93, y: 15}
+        - {x: -93, y: -60}
+        - {x: -50, y: -78}
+        - {x: 15, y: -78}
+        - {x: 72, y: -34}
+        - {x: 72, y: -22}
+        - {x: 43, y: 33}
+    - name: jum_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 27}
+        - {x: -82, y: 27}
+        - {x: -95, y: 13}
+        - {x: -95, y: -62}
+        - {x: -47, y: -81}
+        - {x: 19, y: -81}
+        - {x: 74, y: -39}
+        - {x: 74, y: -28}
+        - {x: 66, y: -17}
+    - name: jum_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 23}
+        - {x: -96, y: -65}
+        - {x: -50, y: -82}
+        - {x: 32, y: -82}
+        - {x: 76, y: -44}
+        - {x: 76, y: -27}
+        - {x: 44, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

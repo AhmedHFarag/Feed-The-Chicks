@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: b9a2e9b5ec20e9447a5c753d6a8d165d
+timeCreated: 1460748287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idel_0
+    21300002: idel_1
+    21300004: idel_2
+    21300006: idel_3
+    21300008: idel_4
+    21300010: idel_5
+    21300012: idel_6
+    21300014: idel_7
+    21300016: idel_8
+    21300018: idel_9
+    21300020: idel_10
+    21300022: idel_11
+    21300024: idel_12
+    21300026: idel_13
+    21300028: idel_14
+    21300030: idel_15
+    21300032: idel_16
+    21300034: idel_17
+    21300036: idel_18
+    21300038: idel_19
+    21300040: idel_20
+    21300042: idel_21
+    21300044: idel_22
+    21300046: idel_23
+    21300048: idel_24
+    21300050: idel_25
+    21300052: idel_26
+    21300054: idel_27
+    21300056: idel_28
+    21300058: idel_29
+    21300060: idel_30
+    21300062: idel_31
+    21300064: idel_32
+    21300066: idel_33
+    21300068: idel_34
+    21300070: Red_idel_0
+    21300072: Red_idel_1
+    21300074: Red_idel_2
+    21300076: Red_idel_3
+    21300078: Red_idel_4
+    21300080: Red_idel_5
+    21300082: Red_idel_6
+    21300084: Red_idel_7
+    21300086: Red_idel_8
+    21300088: Red_idel_9
+    21300090: Red_idel_10
+    21300092: Red_idel_11
+    21300094: Red_idel_12
+    21300096: Red_idel_13
+    21300098: Red_idel_14
+    21300100: Red_idel_15
+    21300102: Red_idel_16
+    21300104: Red_idel_17
+    21300106: Red_idel_18
+    21300108: Red_idel_19
+    21300110: Red_idel_20
+    21300112: Red_idel_21
+    21300114: Red_idel_22
+    21300116: Red_idel_23
+    21300118: Red_idel_24
+    21300120: Red_idel_25
+    21300122: Red_idel_26
+    21300124: Red_idel_27
+    21300126: Red_idel_28
+    21300128: Red_idel_29
+    21300130: Red_idel_30
+    21300132: Red_idel_31
+    21300134: Red_idel_32
+    21300136: Red_idel_33
+    21300138: Red_idel_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Red_idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 60}
+        - {x: -18.5, y: 56}
+        - {x: -21.5, y: 54}
+        - {x: -55.5, y: 9}
+        - {x: -55.5, y: -33}
+        - {x: -53.5, y: -44}
+        - {x: -39.5, y: -47}
+        - {x: 27.5, y: -47}
+        - {x: 64.5, y: -16}
+        - {x: 64.5, y: 21}
+        - {x: 38.5, y: 60}
+    - name: Red_idel_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 60}
+        - {x: -56.5, y: 9}
+        - {x: -56.5, y: -24}
+        - {x: -35.5, y: -48}
+        - {x: 14.5, y: -48}
+        - {x: 27.5, y: -46}
+        - {x: 64.5, y: -18}
+        - {x: 64.5, y: 23}
+        - {x: 39.5, y: 60}
+    - name: Red_idel_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 60}
+        - {x: -56.5, y: 2}
+        - {x: -56.5, y: -37}
+        - {x: -30.5, y: -48}
+        - {x: 33.5, y: -48}
+        - {x: 64.5, y: -17}
+        - {x: 64.5, y: 31}
+        - {x: 52.5, y: 60}
+    - name: Red_idel_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 59}
+        - {x: -16.5, y: 59}
+        - {x: -56.5, y: 20}
+        - {x: -56.5, y: -28}
+        - {x: -43.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 65.5, y: -3}
+        - {x: 65.5, y: 17}
+        - {x: 34.5, y: 50}
+    - name: Red_idel_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 59}
+        - {x: -17.5, y: 59}
+        - {x: -56.5, y: 6}
+        - {x: -56.5, y: -26}
+        - {x: -39.5, y: -48}
+        - {x: 23.5, y: -48}
+        - {x: 39.5, y: -44}
+        - {x: 65.5, y: -7}
+        - {x: 65.5, y: 4}
+        - {x: 37.5, y: 54}
+    - name: Red_idel_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 600
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 59}
+        - {x: -24.5, y: 59}
+        - {x: -56.5, y: 0}
+        - {x: -56.5, y: -35}
+        - {x: -36.5, y: -48}
+        - {x: 28.5, y: -48}
+        - {x: 65.5, y: -17}
+        - {x: 65.5, y: 8}
+        - {x: 38.5, y: 55}
+    - name: Red_idel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 58}
+        - {x: -56.5, y: 1}
+        - {x: -56.5, y: -36}
+        - {x: -42.5, y: -48}
+        - {x: 14.5, y: -48}
+        - {x: 40.5, y: -40}
+        - {x: 65.5, y: -3}
+        - {x: 65.5, y: 29}
+        - {x: 29.5, y: 58}
+    - name: Red_idel_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 58}
+        - {x: -20.5, y: 58}
+        - {x: -56.5, y: 22}
+        - {x: -56.5, y: -28}
+        - {x: -34.5, y: -47}
+        - {x: -18.5, y: -48}
+        - {x: 13.5, y: -48}
+        - {x: 65.5, y: -16}
+        - {x: 65.5, y: 12}
+        - {x: 30.5, y: 53}
+    - name: Red_idel_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 58}
+        - {x: -20.5, y: 58}
+        - {x: -56.5, y: 21}
+        - {x: -56.5, y: -27}
+        - {x: -42.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 66.5, y: -4}
+        - {x: 66.5, y: 17}
+        - {x: 30.5, y: 51}
+    - name: Red_idel_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 57}
+        - {x: -17.5, y: 57}
+        - {x: -57.5, y: 5}
+        - {x: -57.5, y: -42}
+        - {x: -41.5, y: -48}
+        - {x: 42.5, y: -48}
+        - {x: 66.5, y: -14}
+        - {x: 66.5, y: 17}
+        - {x: 37.5, y: 42}
+    - name: Red_idel_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 57}
+        - {x: -57.5, y: 9}
+        - {x: -57.5, y: -39}
+        - {x: -38.5, y: -48}
+        - {x: 48.5, y: -48}
+        - {x: 66.5, y: -28}
+        - {x: 66.5, y: 14}
+        - {x: 37.5, y: 57}
+    - name: Red_idel_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 480
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 57}
+        - {x: -18.5, y: 57}
+        - {x: -57.5, y: 5}
+        - {x: -57.5, y: -40}
+        - {x: -35.5, y: -48}
+        - {x: 36.5, y: -48}
+        - {x: 66.5, y: -22}
+        - {x: 66.5, y: 19}
+        - {x: 40.5, y: 55}
+    - name: Red_idel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: -44}
+        - {x: -53.5, y: -48}
+        - {x: 33.5, y: -48}
+        - {x: 66.5, y: -25}
+        - {x: 66.5, y: 14}
+        - {x: 12.5, y: 56}
+        - {x: -27.5, y: 56}
+        - {x: -57.5, y: -4}
+    - name: Red_idel_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 56}
+        - {x: -57.5, y: 0}
+        - {x: -57.5, y: -29}
+        - {x: -34.5, y: -48}
+        - {x: 21.5, y: -48}
+        - {x: 67.5, y: -8}
+        - {x: 67.5, y: 28}
+        - {x: 45.5, y: 56}
+    - name: Red_idel_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 56}
+        - {x: -43.5, y: 56}
+        - {x: -57.5, y: 20}
+        - {x: -57.5, y: -32}
+        - {x: -26.5, y: -48}
+        - {x: 35.5, y: -48}
+        - {x: 67.5, y: -16}
+        - {x: 67.5, y: 14}
+        - {x: 47.5, y: 47}
+    - name: Red_idel_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -57.5, y: 4}
+        - {x: -57.5, y: -38}
+        - {x: -26.5, y: -48}
+        - {x: 25.5, y: -48}
+        - {x: 39.5, y: -34}
+        - {x: 67.5, y: -3}
+        - {x: 67.5, y: 14}
+    - name: Red_idel_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 55}
+        - {x: -34.5, y: 55}
+        - {x: -58.5, y: 3}
+        - {x: -58.5, y: -46}
+        - {x: -50.5, y: -48}
+        - {x: 29.5, y: -48}
+        - {x: 67.5, y: -20}
+        - {x: 67.5, y: 5}
+        - {x: 35.5, y: 50}
+    - name: Red_idel_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 360
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 55}
+        - {x: -58.5, y: 0}
+        - {x: -58.5, y: -19}
+        - {x: -57.5, y: -29}
+        - {x: -28.5, y: -46}
+        - {x: -23.5, y: -48}
+        - {x: 11.5, y: -48}
+        - {x: 20.5, y: -47}
+        - {x: 67.5, y: -13}
+        - {x: 67.5, y: 13}
+        - {x: 43.5, y: 55}
+    - name: Red_idel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 55}
+        - {x: -58.5, y: 4}
+        - {x: -58.5, y: -28}
+        - {x: -33.5, y: -48}
+        - {x: 30.5, y: -48}
+        - {x: 67.5, y: -13}
+        - {x: 67.5, y: 5}
+        - {x: 37.5, y: 55}
+    - name: Red_idel_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 55}
+        - {x: 38.5, y: 56}
+        - {x: -29.5, y: 56}
+        - {x: -57.5, y: -1}
+        - {x: -57.5, y: -34}
+        - {x: -32.5, y: -48}
+        - {x: 10.5, y: -48}
+        - {x: 18.5, y: -44}
+        - {x: 67.5, y: -19}
+        - {x: 67.5, y: 24}
+    - name: Red_idel_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 56}
+        - {x: -17.5, y: 56}
+        - {x: -57.5, y: 4}
+        - {x: -57.5, y: -31}
+        - {x: -54.5, y: -45}
+        - {x: -40.5, y: -48}
+        - {x: 37.5, y: -48}
+        - {x: 67.5, y: -4}
+        - {x: 67.5, y: 11}
+        - {x: 27.5, y: 46}
+    - name: Red_idel_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 56}
+        - {x: -21.5, y: 54}
+        - {x: -57.5, y: -4}
+        - {x: -57.5, y: -38}
+        - {x: -33.5, y: -48}
+        - {x: 31.5, y: -48}
+        - {x: 67.5, y: -9}
+        - {x: 67.5, y: 17}
+        - {x: 28.5, y: 56}
+    - name: Red_idel_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 57}
+        - {x: -10.5, y: 57}
+        - {x: -22.5, y: 54}
+        - {x: -57.5, y: -4}
+        - {x: -57.5, y: -28}
+        - {x: -28.5, y: -48}
+        - {x: 20.5, y: -48}
+        - {x: 66.5, y: -12}
+        - {x: 66.5, y: 10}
+        - {x: 36.5, y: 52}
+    - name: Red_idel_23
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 240
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 49}
+        - {x: 20.5, y: 57}
+        - {x: -47.5, y: 57}
+        - {x: -57.5, y: 21}
+        - {x: -57.5, y: -36}
+        - {x: -34.5, y: -47}
+        - {x: -32.5, y: -48}
+        - {x: 22.5, y: -48}
+        - {x: 66.5, y: -11}
+        - {x: 66.5, y: 3}
+    - name: Red_idel_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 47}
+        - {x: 4.5, y: 56}
+        - {x: 2.5, y: 57}
+        - {x: -18.5, y: 57}
+        - {x: -57.5, y: 17}
+        - {x: -57.5, y: -26}
+        - {x: -44.5, y: -48}
+        - {x: 24.5, y: -48}
+        - {x: 66.5, y: -13}
+        - {x: 66.5, y: 9}
+        - {x: 26.5, y: 45}
+    - name: Red_idel_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 58}
+        - {x: -17.5, y: 58}
+        - {x: -57.5, y: 14}
+        - {x: -57.5, y: -27}
+        - {x: -33.5, y: -46}
+        - {x: -19.5, y: -48}
+        - {x: 15.5, y: -48}
+        - {x: 66.5, y: -11}
+        - {x: 66.5, y: 8}
+        - {x: 59.5, y: 27}
+    - name: Red_idel_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 58}
+        - {x: -18.5, y: 58}
+        - {x: -56.5, y: 10}
+        - {x: -56.5, y: -38}
+        - {x: -32.5, y: -48}
+        - {x: 29.5, y: -48}
+        - {x: 65.5, y: -13}
+        - {x: 65.5, y: 17}
+        - {x: 30.5, y: 53}
+    - name: Red_idel_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 50}
+        - {x: 10.5, y: 58}
+        - {x: -17.5, y: 58}
+        - {x: -56.5, y: 9}
+        - {x: -56.5, y: -40}
+        - {x: -34.5, y: -48}
+        - {x: 27.5, y: -48}
+        - {x: 35.5, y: -37}
+        - {x: 65.5, y: -1}
+        - {x: 65.5, y: 12}
+    - name: Red_idel_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 59}
+        - {x: -56.5, y: 1}
+        - {x: -56.5, y: -32}
+        - {x: -35.5, y: -46}
+        - {x: -29.5, y: -48}
+        - {x: 26.5, y: -48}
+        - {x: 65.5, y: -19}
+        - {x: 65.5, y: 10}
+        - {x: 34.5, y: 59}
+    - name: Red_idel_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 120
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 59}
+        - {x: -56.5, y: 21}
+        - {x: -56.5, y: -29}
+        - {x: -44.5, y: -48}
+        - {x: 52.5, y: -48}
+        - {x: 65.5, y: -10}
+        - {x: 65.5, y: 31}
+        - {x: 22.5, y: 59}
+    - name: Red_idel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 59}
+        - {x: -56.5, y: 25}
+        - {x: -56.5, y: -29}
+        - {x: -46.5, y: -48}
+        - {x: 15.5, y: -48}
+        - {x: 65.5, y: -11}
+        - {x: 65.5, y: 16}
+        - {x: 45.5, y: 59}
+    - name: Red_idel_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 59}
+        - {x: -33.5, y: 59}
+        - {x: -56.5, y: 16}
+        - {x: -56.5, y: -27}
+        - {x: -51.5, y: -43}
+        - {x: -27.5, y: -48}
+        - {x: 10.5, y: -48}
+        - {x: 22.5, y: -41}
+        - {x: 64.5, y: -16}
+        - {x: 64.5, y: 26}
+    - name: Red_idel_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 49}
+        - {x: 2.5, y: 59}
+        - {x: -0.5, y: 60}
+        - {x: -11.5, y: 60}
+        - {x: -21.5, y: 52}
+        - {x: -56.5, y: 10}
+        - {x: -56.5, y: -48}
+        - {x: 40.5, y: -48}
+        - {x: 64.5, y: -9}
+        - {x: 64.5, y: 22}
+        - {x: 25.5, y: 47}
+    - name: Red_idel_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 60}
+        - {x: -34.5, y: 60}
+        - {x: -55.5, y: 14}
+        - {x: -55.5, y: -34}
+        - {x: -53.5, y: -45}
+        - {x: -40.5, y: -48}
+        - {x: 24.5, y: -48}
+        - {x: 64.5, y: -4}
+        - {x: 64.5, y: 9}
+        - {x: 62.5, y: 15}
+    - name: Red_idel_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 60}
+        - {x: -18.5, y: 55}
+        - {x: -21.5, y: 53}
+        - {x: -55.5, y: 8}
+        - {x: -55.5, y: -34}
+        - {x: -53.5, y: -45}
+        - {x: -39.5, y: -48}
+        - {x: 27.5, y: -48}
+        - {x: 64.5, y: -17}
+        - {x: 64.5, y: 20}
+        - {x: 37.5, y: 60}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

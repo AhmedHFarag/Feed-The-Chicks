@@ -1,0 +1,841 @@
+fileFormatVersion: 2
+guid: 4d3af9fd19cd9814aaf37a07ff3abb69
+timeCreated: 1465217633
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprit-race_0
+    21300002: sprit-race_1
+    21300004: sprit-race_2
+    21300006: sprit-race_3
+    21300008: sprit-race_4
+    21300010: sprit-race_5
+    21300012: sprit-race_6
+    21300014: sprit-race_7
+    21300016: sprit-race_8
+    21300018: sprit-race_9
+    21300020: sprit-race_10
+    21300022: sprit-race_11
+    21300024: sprit-race_12
+    21300026: sprit-race_13
+    21300028: sprit-race_14
+    21300030: sprit-race_15
+    21300032: sprit-race_16
+    21300034: sprit-race_17
+    21300036: sprit-race_18
+    21300038: sprit-race_19
+    21300040: sprit-race_20
+    21300042: sprit-race_21
+    21300044: sprit-race_22
+    21300046: sprit-race_23
+    21300048: sprit-race_24
+    21300050: sprit-race_25
+    21300052: sprit-race_26
+    21300054: sprit-race_27
+    21300056: sprit-race_28
+    21300058: sprit-race_29
+    21300060: sprit-race_30
+    21300062: sprit-race_31
+    21300064: sprit-race_32
+    21300066: sprit-race_33
+    21300068: sprit-race_34
+    21300070: sprit-race_35
+    21300072: sprit-race_36
+    21300074: sprit-race_37
+    21300076: sprit-race_38
+    21300078: sprit-race_39
+    21300080: sprit-race_40
+    21300082: sprit-race_41
+    21300084: sprit-race_42
+    21300086: sprit-race_43
+    21300088: sprit-race_44
+    21300090: sprit-race_45
+    21300092: sprit-race_46
+    21300094: sprit-race_47
+    21300096: sprit-race_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprit-race_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 41.88263}
+        - {x: -73.5, y: -41.11737}
+        - {x: 73.5, y: -41.11737}
+        - {x: 73.5, y: 41.88263}
+    - name: sprit-race_1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 41.88263}
+        - {x: -73.214294, y: -41.11737}
+        - {x: 73.785706, y: -41.11737}
+        - {x: 73.785706, y: 41.88263}
+    - name: sprit-race_2
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 41.88263}
+        - {x: -72.92859, y: -41.11737}
+        - {x: 74.07141, y: -41.11737}
+        - {x: 74.07141, y: 41.88263}
+    - name: sprit-race_3
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 41.88263}
+        - {x: -73.14285, y: -41.11737}
+        - {x: 74.85715, y: -41.11737}
+        - {x: 74.85715, y: 41.88263}
+    - name: sprit-race_4
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 41.88263}
+        - {x: -73.35718, y: -41.11737}
+        - {x: 73.64282, y: -41.11737}
+        - {x: 73.64282, y: 41.88263}
+    - name: sprit-race_5
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 41.88263}
+        - {x: -73.07141, y: -41.11737}
+        - {x: 73.92859, y: -41.11737}
+        - {x: 73.92859, y: 41.88263}
+    - name: sprit-race_6
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 3606
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 41.88263}
+        - {x: -72.785706, y: -41.11737}
+        - {x: 74.214294, y: -41.11737}
+        - {x: 74.214294, y: 41.88263}
+    - name: sprit-race_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 42.985535}
+        - {x: -73.5, y: -41.014465}
+        - {x: 73.5, y: -41.014465}
+        - {x: 73.5, y: 42.985535}
+    - name: sprit-race_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 42.985535}
+        - {x: -73.214294, y: -41.014465}
+        - {x: 73.785706, y: -41.014465}
+        - {x: 73.785706, y: 42.985535}
+    - name: sprit-race_9
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 42.985535}
+        - {x: -72.92859, y: -41.014465}
+        - {x: 74.07141, y: -41.014465}
+        - {x: 74.07141, y: 42.985535}
+    - name: sprit-race_10
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 42.985535}
+        - {x: -73.14285, y: -41.014465}
+        - {x: 74.85715, y: -41.014465}
+        - {x: 74.85715, y: 42.985535}
+    - name: sprit-race_11
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 42.985535}
+        - {x: -73.35718, y: -41.014465}
+        - {x: 73.64282, y: -41.014465}
+        - {x: 73.64282, y: 42.985535}
+    - name: sprit-race_12
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 42.985535}
+        - {x: -73.07141, y: -41.014465}
+        - {x: 73.92859, y: -41.014465}
+        - {x: 73.92859, y: 42.985535}
+    - name: sprit-race_13
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 3005
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 42.985535}
+        - {x: -72.785706, y: -41.014465}
+        - {x: 74.214294, y: -41.014465}
+        - {x: 74.214294, y: 42.985535}
+    - name: sprit-race_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 42.08844}
+        - {x: -73.5, y: -40.91156}
+        - {x: 73.5, y: -40.91156}
+        - {x: 73.5, y: 42.08844}
+    - name: sprit-race_15
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 42.08844}
+        - {x: -73.214294, y: -40.91156}
+        - {x: 73.785706, y: -40.91156}
+        - {x: 73.785706, y: 42.08844}
+    - name: sprit-race_16
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 42.08844}
+        - {x: -72.92859, y: -40.91156}
+        - {x: 74.07141, y: -40.91156}
+        - {x: 74.07141, y: 42.08844}
+    - name: sprit-race_17
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 42.08844}
+        - {x: -73.14285, y: -40.91156}
+        - {x: 74.85715, y: -40.91156}
+        - {x: 74.85715, y: 42.08844}
+    - name: sprit-race_18
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 42.08844}
+        - {x: -73.35718, y: -40.91156}
+        - {x: 73.64282, y: -40.91156}
+        - {x: 73.64282, y: 42.08844}
+    - name: sprit-race_19
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 42.08844}
+        - {x: -73.07141, y: -40.91156}
+        - {x: 73.92859, y: -40.91156}
+        - {x: 73.92859, y: 42.08844}
+    - name: sprit-race_20
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 2404
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 42.08844}
+        - {x: -72.785706, y: -40.91156}
+        - {x: 74.214294, y: -40.91156}
+        - {x: 74.214294, y: 42.08844}
+    - name: sprit-race_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 41.691315}
+        - {x: -73.5, y: -41.308685}
+        - {x: 73.5, y: -41.308685}
+        - {x: 73.5, y: 41.691315}
+    - name: sprit-race_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 41.691315}
+        - {x: -73.214294, y: -41.308685}
+        - {x: 73.785706, y: -41.308685}
+        - {x: 73.785706, y: 41.691315}
+    - name: sprit-race_23
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 41.691315}
+        - {x: -72.92859, y: -41.308685}
+        - {x: 74.07141, y: -41.308685}
+        - {x: 74.07141, y: 41.691315}
+    - name: sprit-race_24
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 41.691315}
+        - {x: -73.14285, y: -41.308685}
+        - {x: 74.85715, y: -41.308685}
+        - {x: 74.85715, y: 41.691315}
+    - name: sprit-race_25
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 41.691315}
+        - {x: -73.35718, y: -41.308685}
+        - {x: 73.64282, y: -41.308685}
+        - {x: 73.64282, y: 41.691315}
+    - name: sprit-race_26
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 41.691315}
+        - {x: -73.07141, y: -41.308685}
+        - {x: 73.92859, y: -41.308685}
+        - {x: 73.92859, y: 41.691315}
+    - name: sprit-race_27
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 1803
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 41.691315}
+        - {x: -72.785706, y: -41.308685}
+        - {x: 74.214294, y: -41.308685}
+        - {x: 74.214294, y: 41.691315}
+    - name: sprit-race_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 42.79422}
+        - {x: -73.5, y: -41.20578}
+        - {x: 73.5, y: -41.20578}
+        - {x: 73.5, y: 42.79422}
+    - name: sprit-race_29
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 42.79422}
+        - {x: -73.214294, y: -41.20578}
+        - {x: 73.785706, y: -41.20578}
+        - {x: 73.785706, y: 42.79422}
+    - name: sprit-race_30
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 42.79422}
+        - {x: -72.92859, y: -41.20578}
+        - {x: 74.07141, y: -41.20578}
+        - {x: 74.07141, y: 42.79422}
+    - name: sprit-race_31
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 42.79422}
+        - {x: -73.14285, y: -41.20578}
+        - {x: 74.85715, y: -41.20578}
+        - {x: 74.85715, y: 42.79422}
+    - name: sprit-race_32
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 42.79422}
+        - {x: -73.35718, y: -41.20578}
+        - {x: 73.64282, y: -41.20578}
+        - {x: 73.64282, y: 42.79422}
+    - name: sprit-race_33
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 42.79422}
+        - {x: -73.07141, y: -41.20578}
+        - {x: 73.92859, y: -41.20578}
+        - {x: 73.92859, y: 42.79422}
+    - name: sprit-race_34
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 1202
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 42.79422}
+        - {x: -72.785706, y: -41.20578}
+        - {x: 74.214294, y: -41.20578}
+        - {x: 74.214294, y: 42.79422}
+    - name: sprit-race_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 41.89711}
+        - {x: -73.5, y: -41.10289}
+        - {x: 73.5, y: -41.10289}
+        - {x: 73.5, y: 41.89711}
+    - name: sprit-race_36
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 41.89711}
+        - {x: -73.214294, y: -41.10289}
+        - {x: 73.785706, y: -41.10289}
+        - {x: 73.785706, y: 41.89711}
+    - name: sprit-race_37
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 41.89711}
+        - {x: -72.92859, y: -41.10289}
+        - {x: 74.07141, y: -41.10289}
+        - {x: 74.07141, y: 41.89711}
+    - name: sprit-race_38
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 41.89711}
+        - {x: -73.14285, y: -41.10289}
+        - {x: 74.85715, y: -41.10289}
+        - {x: 74.85715, y: 41.89711}
+    - name: sprit-race_39
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 41.89711}
+        - {x: -73.35718, y: -41.10289}
+        - {x: 73.64282, y: -41.10289}
+        - {x: 73.64282, y: 41.89711}
+    - name: sprit-race_40
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 41.89711}
+        - {x: -73.07141, y: -41.10289}
+        - {x: 73.92859, y: -41.10289}
+        - {x: 73.92859, y: 41.89711}
+    - name: sprit-race_41
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 601
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 41.89711}
+        - {x: -72.785706, y: -41.10289}
+        - {x: 74.214294, y: -41.10289}
+        - {x: 74.214294, y: 41.89711}
+    - name: sprit-race_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 41.5}
+        - {x: -73.5, y: -41.5}
+        - {x: 73.5, y: -41.5}
+        - {x: 73.5, y: 41.5}
+    - name: sprit-race_43
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.214294, y: 41.5}
+        - {x: -73.214294, y: 38.5}
+        - {x: 73.785706, y: 38.5}
+        - {x: 73.785706, y: 41.5}
+    - name: sprit-race_44
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.92859, y: 41.5}
+        - {x: -72.92859, y: 38.5}
+        - {x: 74.07141, y: 38.5}
+        - {x: 74.07141, y: 41.5}
+    - name: sprit-race_45
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.14285, y: 41.5}
+        - {x: -73.14285, y: 38.5}
+        - {x: 74.85715, y: 38.5}
+        - {x: 74.85715, y: 41.5}
+    - name: sprit-race_46
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.35718, y: 41.5}
+        - {x: -73.35718, y: 38.5}
+        - {x: 73.64282, y: 38.5}
+        - {x: 73.64282, y: 41.5}
+    - name: sprit-race_47
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.07141, y: 41.5}
+        - {x: -73.07141, y: 38.5}
+        - {x: 73.92859, y: 38.5}
+        - {x: 73.92859, y: 41.5}
+    - name: sprit-race_48
+      rect:
+        serializedVersion: 2
+        x: 6402
+        y: 0
+        width: 1067
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.785706, y: 41.5}
+        - {x: -72.785706, y: 38.5}
+        - {x: 74.214294, y: 38.5}
+        - {x: 74.214294, y: 41.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

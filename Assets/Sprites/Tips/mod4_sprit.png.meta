@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 9a73c917017e9c34f9c57d1fbae5da83
+timeCreated: 1466413875
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mod4_sprit_0
+    21300002: mod4_sprit_1
+    21300004: mod4_sprit_2
+    21300006: mod4_sprit_3
+    21300008: mod4_sprit_4
+    21300010: mod4_sprit_5
+    21300012: mod4_sprit_6
+    21300014: mod4_sprit_7
+    21300016: mod4_sprit_8
+    21300018: mod4_sprit_9
+    21300020: mod4_sprit_10
+    21300022: mod4_sprit_11
+    21300024: mod4_sprit_12
+    21300026: mod4_sprit_13
+    21300028: mod4_sprit_14
+    21300030: mod4_sprit_15
+    21300032: mod4_sprit_16
+    21300034: mod4_sprit_17
+    21300036: mod4_sprit_18
+    21300038: mod4_sprit_19
+    21300040: mod4_sprit_20
+    21300042: mod4_sprit_21
+    21300044: mod4_sprit_22
+    21300046: mod4_sprit_23
+    21300048: mod4_sprit_24
+    21300050: mod4_sprit_25
+    21300052: mod4_sprit_26
+    21300054: mod4_sprit_27
+    21300056: mod4_sprit_28
+    21300058: mod4_sprit_29
+    21300060: mod4_sprit_30
+    21300062: mod4_sprit_31
+    21300064: mod4_sprit_32
+    21300066: mod4_sprit_33
+    21300068: mod4_sprit_34
+    21300070: mod4_sprit_35
+    21300072: mod4_sprit_36
+    21300074: mod4_sprit_37
+    21300076: mod4_sprit_38
+    21300078: mod4_sprit_39
+    21300080: mod4_sprit_40
+    21300082: mod4_sprit_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mod4_sprit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 82.22363}
+        - {x: -146.5, y: -80.77637}
+        - {x: 146.5, y: -80.77637}
+        - {x: 146.5, y: 82.22363}
+    - name: mod4_sprit_1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 82.22363}
+        - {x: -146.42856, y: -80.77637}
+        - {x: 147.57144, y: -80.77637}
+        - {x: 147.57144, y: 82.22363}
+    - name: mod4_sprit_2
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 82.22363}
+        - {x: -146.35712, y: -80.77637}
+        - {x: 146.64288, y: -80.77637}
+        - {x: 146.64288, y: 82.22363}
+    - name: mod4_sprit_3
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 82.22363}
+        - {x: -146.2857, y: -80.77637}
+        - {x: 147.7143, y: -80.77637}
+        - {x: 147.7143, y: 82.22363}
+    - name: mod4_sprit_4
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 82.22363}
+        - {x: -146.21423, y: -80.77637}
+        - {x: 146.78577, y: -80.77637}
+        - {x: 146.78577, y: 82.22363}
+    - name: mod4_sprit_5
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 82.22363}
+        - {x: -146.14282, y: -80.77637}
+        - {x: 147.85718, y: -80.77637}
+        - {x: 147.85718, y: 82.22363}
+    - name: mod4_sprit_6
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 2965
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 82.22363}
+        - {x: -146.07141, y: -80.77637}
+        - {x: 146.92859, y: -80.77637}
+        - {x: 146.92859, y: 82.22363}
+    - name: mod4_sprit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 82.07892}
+        - {x: -146.5, y: -80.92108}
+        - {x: 146.5, y: -80.92108}
+        - {x: 146.5, y: 82.07892}
+    - name: mod4_sprit_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 82.07892}
+        - {x: -146.42856, y: -80.92108}
+        - {x: 147.57144, y: -80.92108}
+        - {x: 147.57144, y: 82.07892}
+    - name: mod4_sprit_9
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 82.07892}
+        - {x: -146.35712, y: -80.92108}
+        - {x: 146.64288, y: -80.92108}
+        - {x: 146.64288, y: 82.07892}
+    - name: mod4_sprit_10
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 82.07892}
+        - {x: -146.2857, y: -80.92108}
+        - {x: 147.7143, y: -80.92108}
+        - {x: 147.7143, y: 82.07892}
+    - name: mod4_sprit_11
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 82.07892}
+        - {x: -146.21423, y: -80.92108}
+        - {x: 146.78577, y: -80.92108}
+        - {x: 146.78577, y: 82.07892}
+    - name: mod4_sprit_12
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 82.07892}
+        - {x: -146.14282, y: -80.92108}
+        - {x: 147.85718, y: -80.92108}
+        - {x: 147.85718, y: 82.07892}
+    - name: mod4_sprit_13
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 82.07892}
+        - {x: -146.07141, y: -80.92108}
+        - {x: 146.92859, y: -80.92108}
+        - {x: 146.92859, y: 82.07892}
+    - name: mod4_sprit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 81.93417}
+        - {x: -146.5, y: -81.06583}
+        - {x: 146.5, y: -81.06583}
+        - {x: 146.5, y: 81.93417}
+    - name: mod4_sprit_15
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 81.93417}
+        - {x: -146.42856, y: -81.06583}
+        - {x: 147.57144, y: -81.06583}
+        - {x: 147.57144, y: 81.93417}
+    - name: mod4_sprit_16
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 81.93417}
+        - {x: -146.35712, y: -81.06583}
+        - {x: 146.64288, y: -81.06583}
+        - {x: 146.64288, y: 81.93417}
+    - name: mod4_sprit_17
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 81.93417}
+        - {x: -146.2857, y: -81.06583}
+        - {x: 147.7143, y: -81.06583}
+        - {x: 147.7143, y: 81.93417}
+    - name: mod4_sprit_18
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 81.93417}
+        - {x: -146.21423, y: -81.06583}
+        - {x: 146.78577, y: -81.06583}
+        - {x: 146.78577, y: 81.93417}
+    - name: mod4_sprit_19
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 81.93417}
+        - {x: -146.14282, y: -81.06583}
+        - {x: 147.85718, y: -81.06583}
+        - {x: 147.85718, y: 81.93417}
+    - name: mod4_sprit_20
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 81.93417}
+        - {x: -146.07141, y: -81.06583}
+        - {x: 146.92859, y: -81.06583}
+        - {x: 146.92859, y: 81.93417}
+    - name: mod4_sprit_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 81.78946}
+        - {x: -146.5, y: -81.21054}
+        - {x: 146.5, y: -81.21054}
+        - {x: 146.5, y: 81.78946}
+    - name: mod4_sprit_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 81.78946}
+        - {x: -146.42856, y: -81.21054}
+        - {x: 147.57144, y: -81.21054}
+        - {x: 147.57144, y: 81.78946}
+    - name: mod4_sprit_23
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 81.78946}
+        - {x: -146.35712, y: -81.21054}
+        - {x: 146.64288, y: -81.21054}
+        - {x: 146.64288, y: 81.78946}
+    - name: mod4_sprit_24
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 81.78946}
+        - {x: -146.2857, y: -81.21054}
+        - {x: 147.7143, y: -81.21054}
+        - {x: 147.7143, y: 81.78946}
+    - name: mod4_sprit_25
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 81.78946}
+        - {x: -146.21423, y: -81.21054}
+        - {x: 146.78577, y: -81.21054}
+        - {x: 146.78577, y: 81.78946}
+    - name: mod4_sprit_26
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 81.78946}
+        - {x: -146.14282, y: -81.21054}
+        - {x: 147.85718, y: -81.21054}
+        - {x: 147.85718, y: 81.78946}
+    - name: mod4_sprit_27
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 81.78946}
+        - {x: -146.07141, y: -81.21054}
+        - {x: 146.92859, y: -81.21054}
+        - {x: 146.92859, y: 81.78946}
+    - name: mod4_sprit_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 81.64473}
+        - {x: -146.5, y: -81.35527}
+        - {x: 146.5, y: -81.35527}
+        - {x: 146.5, y: 81.64473}
+    - name: mod4_sprit_29
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 81.64473}
+        - {x: -146.42856, y: -81.35527}
+        - {x: 147.57144, y: -81.35527}
+        - {x: 147.57144, y: 81.64473}
+    - name: mod4_sprit_30
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 81.64473}
+        - {x: -146.35712, y: -81.35527}
+        - {x: 146.64288, y: -81.35527}
+        - {x: 146.64288, y: 81.64473}
+    - name: mod4_sprit_31
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 81.64473}
+        - {x: -146.2857, y: -81.35527}
+        - {x: 147.7143, y: -81.35527}
+        - {x: 147.7143, y: 81.64473}
+    - name: mod4_sprit_32
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 81.64473}
+        - {x: -146.21423, y: -81.35527}
+        - {x: 146.78577, y: -81.35527}
+        - {x: 146.78577, y: 81.64473}
+    - name: mod4_sprit_33
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 81.64473}
+        - {x: -146.14282, y: -81.35527}
+        - {x: 147.85718, y: -81.35527}
+        - {x: 147.85718, y: 81.64473}
+    - name: mod4_sprit_34
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 81.64473}
+        - {x: -146.07141, y: -81.35527}
+        - {x: 146.92859, y: -81.35527}
+        - {x: 146.92859, y: 81.64473}
+    - name: mod4_sprit_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 81.5}
+        - {x: -146.5, y: -81.5}
+        - {x: 146.5, y: -81.5}
+        - {x: 146.5, y: 81.5}
+    - name: mod4_sprit_36
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.42856, y: 81.5}
+        - {x: -146.42856, y: -81.5}
+        - {x: 147.57144, y: -81.5}
+        - {x: 147.57144, y: 81.5}
+    - name: mod4_sprit_37
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.35712, y: 81.5}
+        - {x: -146.35712, y: 78.5}
+        - {x: 146.64288, y: 78.5}
+        - {x: 146.64288, y: 81.5}
+    - name: mod4_sprit_38
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.2857, y: 81.5}
+        - {x: -146.2857, y: 78.5}
+        - {x: 147.7143, y: 78.5}
+        - {x: 147.7143, y: 81.5}
+    - name: mod4_sprit_39
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.21423, y: 81.5}
+        - {x: -146.21423, y: 78.5}
+        - {x: 146.78577, y: 78.5}
+        - {x: 146.78577, y: 81.5}
+    - name: mod4_sprit_40
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.14282, y: 81.5}
+        - {x: -146.14282, y: 78.5}
+        - {x: 147.85718, y: 78.5}
+        - {x: 147.85718, y: 81.5}
+    - name: mod4_sprit_41
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.07141, y: 81.5}
+        - {x: -146.07141, y: 78.5}
+        - {x: 146.92859, y: 78.5}
+        - {x: 146.92859, y: 81.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

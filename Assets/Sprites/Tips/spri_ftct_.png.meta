@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 94f0ba306f9c5854ea83451122dca460
+timeCreated: 1465133365
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spri_ftct__0
+    21300002: spri_ftct__1
+    21300004: spri_ftct__2
+    21300006: spri_ftct__3
+    21300008: spri_ftct__4
+    21300010: spri_ftct__5
+    21300012: spri_ftct__6
+    21300014: spri_ftct__7
+    21300016: spri_ftct__8
+    21300018: spri_ftct__9
+    21300020: spri_ftct__10
+    21300022: spri_ftct__11
+    21300024: spri_ftct__12
+    21300026: spri_ftct__13
+    21300028: spri_ftct__14
+    21300030: spri_ftct__15
+    21300032: spri_ftct__16
+    21300034: spri_ftct__17
+    21300036: spri_ftct__18
+    21300038: spri_ftct__19
+    21300040: spri_ftct__20
+    21300042: spri_ftct__21
+    21300044: spri_ftct__22
+    21300046: spri_ftct__23
+    21300048: spri_ftct__24
+    21300050: spri_ftct__25
+    21300052: spri_ftct__26
+    21300054: spri_ftct__27
+    21300056: spri_ftct__28
+    21300058: spri_ftct__29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spri_ftct__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 47.837677}
+        - {x: -85.5, y: -47.162323}
+        - {x: 85.5, y: -47.162323}
+        - {x: 85.5, y: 47.837677}
+    - name: spri_ftct__1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33334, y: 47.837677}
+        - {x: -85.33334, y: -47.162323}
+        - {x: 86.66666, y: -47.162323}
+        - {x: 86.66666, y: 47.837677}
+    - name: spri_ftct__2
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.837677}
+        - {x: -85.16669, y: -47.162323}
+        - {x: 85.83331, y: -47.162323}
+        - {x: 85.83331, y: 47.837677}
+    - name: spri_ftct__3
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.00003, y: 47.837677}
+        - {x: -85.00003, y: -47.162323}
+        - {x: 86.99997, y: -47.162323}
+        - {x: 86.99997, y: 47.837677}
+    - name: spri_ftct__4
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 47.837677}
+        - {x: -85.333374, y: -47.162323}
+        - {x: 86.666626, y: -47.162323}
+        - {x: 86.666626, y: 47.837677}
+    - name: spri_ftct__5
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 2372
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.837677}
+        - {x: -85.16669, y: -47.162323}
+        - {x: 85.83331, y: -47.162323}
+        - {x: 85.83331, y: 47.837677}
+    - name: spri_ftct__6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 48.753265}
+        - {x: -85.5, y: -47.246735}
+        - {x: 85.5, y: -47.246735}
+        - {x: 85.5, y: 48.753265}
+    - name: spri_ftct__7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33334, y: 48.753265}
+        - {x: -85.33334, y: -47.246735}
+        - {x: 86.66666, y: -47.246735}
+        - {x: 86.66666, y: 48.753265}
+    - name: spri_ftct__8
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 48.753265}
+        - {x: -85.16669, y: -47.246735}
+        - {x: 85.83331, y: -47.246735}
+        - {x: 85.83331, y: 48.753265}
+    - name: spri_ftct__9
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.00003, y: 48.753265}
+        - {x: -85.00003, y: -47.246735}
+        - {x: 86.99997, y: -47.246735}
+        - {x: 86.99997, y: 48.753265}
+    - name: spri_ftct__10
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 48.753265}
+        - {x: -85.333374, y: -47.246735}
+        - {x: 86.666626, y: -47.246735}
+        - {x: 86.666626, y: 48.753265}
+    - name: spri_ftct__11
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 1779
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 48.753265}
+        - {x: -85.16669, y: -47.246735}
+        - {x: 85.83331, y: -47.246735}
+        - {x: 85.83331, y: 48.753265}
+    - name: spri_ftct__12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 47.66884}
+        - {x: -85.5, y: -47.33116}
+        - {x: 85.5, y: -47.33116}
+        - {x: 85.5, y: 47.66884}
+    - name: spri_ftct__13
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33334, y: 47.66884}
+        - {x: -85.33334, y: -47.33116}
+        - {x: 86.66666, y: -47.33116}
+        - {x: 86.66666, y: 47.66884}
+    - name: spri_ftct__14
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.66884}
+        - {x: -85.16669, y: -47.33116}
+        - {x: 85.83331, y: -47.33116}
+        - {x: 85.83331, y: 47.66884}
+    - name: spri_ftct__15
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.00003, y: 47.66884}
+        - {x: -85.00003, y: -47.33116}
+        - {x: 86.99997, y: -47.33116}
+        - {x: 86.99997, y: 47.66884}
+    - name: spri_ftct__16
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 47.66884}
+        - {x: -85.333374, y: -47.33116}
+        - {x: 86.666626, y: -47.33116}
+        - {x: 86.666626, y: 47.66884}
+    - name: spri_ftct__17
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 1186
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.66884}
+        - {x: -85.16669, y: -47.33116}
+        - {x: 85.83331, y: -47.33116}
+        - {x: 85.83331, y: 47.66884}
+    - name: spri_ftct__18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 48.58442}
+        - {x: -85.5, y: -47.41558}
+        - {x: 85.5, y: -47.41558}
+        - {x: 85.5, y: 48.58442}
+    - name: spri_ftct__19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33334, y: 48.58442}
+        - {x: -85.33334, y: -47.41558}
+        - {x: 86.66666, y: -47.41558}
+        - {x: 86.66666, y: 48.58442}
+    - name: spri_ftct__20
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 48.58442}
+        - {x: -85.16669, y: -47.41558}
+        - {x: 85.83331, y: -47.41558}
+        - {x: 85.83331, y: 48.58442}
+    - name: spri_ftct__21
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.00003, y: 48.58442}
+        - {x: -85.00003, y: -47.41558}
+        - {x: 86.99997, y: -47.41558}
+        - {x: 86.99997, y: 48.58442}
+    - name: spri_ftct__22
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 48.58442}
+        - {x: -85.333374, y: -47.41558}
+        - {x: 86.666626, y: -47.41558}
+        - {x: 86.666626, y: 48.58442}
+    - name: spri_ftct__23
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 593
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 48.58442}
+        - {x: -85.16669, y: -47.41558}
+        - {x: 85.83331, y: -47.41558}
+        - {x: 85.83331, y: 48.58442}
+    - name: spri_ftct__24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 47.5}
+        - {x: -85.5, y: -47.5}
+        - {x: 85.5, y: -47.5}
+        - {x: 85.5, y: 47.5}
+    - name: spri_ftct__25
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.33334, y: 47.5}
+        - {x: -85.33334, y: -47.5}
+        - {x: 86.66666, y: -47.5}
+        - {x: 86.66666, y: 47.5}
+    - name: spri_ftct__26
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.5}
+        - {x: -85.16669, y: -47.5}
+        - {x: 85.83331, y: -47.5}
+        - {x: 85.83331, y: 47.5}
+    - name: spri_ftct__27
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.00003, y: 47.5}
+        - {x: -85.00003, y: -47.5}
+        - {x: 86.99997, y: -47.5}
+        - {x: 86.99997, y: 47.5}
+    - name: spri_ftct__28
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.333374, y: 47.5}
+        - {x: -85.333374, y: -47.5}
+        - {x: 86.666626, y: -47.5}
+        - {x: 86.666626, y: 47.5}
+    - name: spri_ftct__29
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 0
+        width: 1070
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.16669, y: 47.5}
+        - {x: -85.16669, y: -47.5}
+        - {x: 85.83331, y: -47.5}
+        - {x: 85.83331, y: 47.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
